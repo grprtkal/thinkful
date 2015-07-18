@@ -1,0 +1,7 @@
+Series: One dimensional array, every element in array gets an index
+Series also takes dictionaries.
+You can add the values of series together given that if they are dictionaries, the dictionaries have the same keys.
+
+DataFrame is two dimensional data structure of rows and columns; think of a spreadsheet
+
+

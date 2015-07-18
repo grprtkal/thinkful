@@ -1,0 +1,6 @@
+Questions: 
+What is $PATH?
+Python 2.7 vs. 3: why do we use 2.7?
+Go over fibonacci sequence; when would this be useful
+Go over recursion examples; when would i use this
+

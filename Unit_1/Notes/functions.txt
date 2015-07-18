@@ -1,0 +1,10 @@
+def addition(a, b):
+    return a + b
+
+print(addition(3, 4))
+
+
+print vs. return vs. logging
+print: print to the console (i.e. result of functioN) (like console.log in JS); useful for debugging simple programs
+return: returns the output value
+logging: use for debugging complex problems; you can add levels of logging (critical, warning, informative, etc.)

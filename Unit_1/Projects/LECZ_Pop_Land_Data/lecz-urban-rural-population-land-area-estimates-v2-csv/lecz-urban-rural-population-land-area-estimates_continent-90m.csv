@@ -1,0 +1,121 @@
+Continent,ElevationZone,UrbanRuralDesignation,Population1990,Population2000,Population2010,Population2100,LandArea
+Africa,Elevations > 20m or Non-Contiguous ,Rural,333302081,418265923,530184094,1249908321,23749644
+Africa,Elevations > 20m or Non-Contiguous ,Urban,157846329,210381843,266776037,504662423,204719
+Africa,Elevations Less Than or Equal To 10m ,Rural,18167003,22569516,28154645,76368900,172460
+Africa,Elevations Less Than or Equal To 10m ,Urban,22412955,28679117,36746774,94042536,13838
+Africa,Elevations Less Than or Equal To 12m ,Rural,20569411,25576481,31957186,85839163,202456
+Africa,Elevations Less Than or Equal To 12m ,Urban,25761403,32968917,42205337,105920405,16035
+Africa,Elevations Less Than or Equal To 1m,Rural,3052584,3891608,4785451,14152403,21939
+Africa,Elevations Less Than or Equal To 1m,Urban,4056678,4791461,5915752,21137853,2193
+Africa,Elevations Less Than or Equal To 20m ,Rural,27791636,34704704,43734340,118040942,342694
+Africa,Elevations Less Than or Equal To 20m ,Urban,37566072,47749797,60835348,145244129,23456
+Africa,Elevations Less Than or Equal To 3m,Rural,6178557,7763536,9586584,27430640,46301
+Africa,Elevations Less Than or Equal To 3m,Urban,7194770,8762218,11005850,34775942,4662
+Africa,Elevations Less Than or Equal To 5m,Rural,9969005,12408335,15403231,43327033,84084
+Africa,Elevations Less Than or Equal To 5m,Urban,11597788,14488902,18449258,53508839,7366
+Africa,Elevations Less Than or Equal To 7m,Rural,13595903,16884460,21018235,58101349,121581
+Africa,Elevations Less Than or Equal To 7m,Urban,16197359,20564492,26333878,71409170,10121
+Africa,Elevations Less Than or Equal To 9m,Rural,16858764,20937690,26100880,71204360,156291
+Africa,Elevations Less Than or Equal To 9m,Urban,20542430,26255213,33641605,87324590,12665
+Africa,Total National Population,Rural,361093713,452970623,573918429,1367949254,24092338
+Africa,Total National Population,Urban,195412402,258131640,327611385,649906552,228175
+Asia,Elevations > 20m or Non-Contiguous ,Rural,1680481883,1798416711,1974005089,2874557238,37883607
+Asia,Elevations > 20m or Non-Contiguous ,Urban,918668080,1175247232,1262609098,1764942637,1122788
+Asia,Elevations Less Than or Equal To 10m ,Rural,191278674,210541251,234663295,374695595,969683
+Asia,Elevations Less Than or Equal To 10m ,Urban,203398169,252379433,290492264,377327872,129278
+Asia,Elevations Less Than or Equal To 12m ,Rural,219960928,243052196,271741911,437367709,1128770
+Asia,Elevations Less Than or Equal To 12m ,Urban,233147526,289429187,333361953,434901291,149673
+Asia,Elevations Less Than or Equal To 1m,Rural,18459117,20808077,22164683,33476823,109974
+Asia,Elevations Less Than or Equal To 1m,Urban,15105001,19858184,21974625,27586527,12590
+Asia,Elevations Less Than or Equal To 20m ,Rural,299462435,331270619,371915099,603768417,1764932
+Asia,Elevations Less Than or Equal To 20m ,Urban,319318447,397909472,458321169,604216625,213823
+Asia,Elevations Less Than or Equal To 3m,Rural,48168060,53093971,57758563,85812360,266138
+Asia,Elevations Less Than or Equal To 3m,Urban,37555825,48341898,54512396,68677562,31423
+Asia,Elevations Less Than or Equal To 5m,Rural,96000422,104609114,114983028,175319939,478303
+Asia,Elevations Less Than or Equal To 5m,Urban,87109915,109542006,124916072,158748008,62383
+Asia,Elevations Less Than or Equal To 7m,Rural,139082069,152030350,168232444,262405032,697177
+Asia,Elevations Less Than or Equal To 7m,Urban,141792154,176453451,202546292,260137398,92410
+Asia,Elevations Less Than or Equal To 9m,Rural,175412216,192696616,214358663,340006165,886176
+Asia,Elevations Less Than or Equal To 9m,Urban,185617116,230392535,264967068,343068584,118075
+Asia,Total National Population,Rural,1979944334,2129687281,2345920129,3478325610,39648539
+Asia,Total National Population,Urban,1237986520,1573156714,1720930281,2369159274,1336611
+Oceania,Elevations > 20m or Non-Contiguous ,Rural,8427284,10127646,12434027,18743701,8174117
+Oceania,Elevations Less Than or Equal To 10m ,Rural,636248,747250,871503,1012881,126545
+Oceania,Elevations Less Than or Equal To 12m ,Rural,762204,897802,1051538,1218603,155196
+Oceania,Elevations Less Than or Equal To 1m,Rural,99919,115905,134633,128828,9146
+Oceania,Elevations Less Than or Equal To 20m ,Rural,1134007,1343603,1590022,1937585,267534
+Oceania,Elevations Less Than or Equal To 3m,Rural,164304,191743,222130,233985,22561
+Oceania,Elevations Less Than or Equal To 5m,Rural,287793,335546,388501,434716,51897
+Oceania,Elevations Less Than or Equal To 7m,Rural,428625,500441,580295,662121,83533
+Oceania,Elevations Less Than or Equal To 9m,Rural,568706,666939,776354,900481,110497
+Oceania,Total National Population,Rural,9561292,11471250,14024049,20681609,8441651
+Oceania,Elevations > 20m or Non-Contiguous ,Urban,12547162,14195786,16912718,18658175,39148
+Oceania,Elevations Less Than or Equal To 10m ,Urban,2200753,2532995,3003692,3293517,5852
+Oceania,Elevations Less Than or Equal To 12m ,Urban,2729119,3136967,3721347,4023841,7139
+Oceania,Elevations Less Than or Equal To 1m,Urban,92528,105767,125631,136478,227
+Oceania,Elevations Less Than or Equal To 20m ,Urban,4589488,5255982,6240084,6566734,11449
+Oceania,Elevations Less Than or Equal To 3m,Urban,310744,361508,430433,499388,881
+Oceania,Elevations Less Than or Equal To 5m,Urban,752050,874001,1038190,1179988,2222
+Oceania,Elevations Less Than or Equal To 7m,Urban,1342907,1552001,1841419,2048884,3708
+Oceania,Elevations Less Than or Equal To 9m,Urban,1945861,2240098,2656137,2937199,5173
+Oceania,Total National Population,Urban,17136649,19451769,23152802,25224909,50597
+Europe,Elevations > 20m or Non-Contiguous ,Rural,163359246,162706798,208303075,113649857,4627707
+Europe,Elevations > 20m or Non-Contiguous ,Urban,309270561,316003549,418732932,265691431,548471
+Europe,Elevations Less Than or Equal To 10m ,Rural,8921599,9344934,10191711,8029402,129830
+Europe,Elevations Less Than or Equal To 10m ,Urban,33776617,34884603,39019817,32965986,50897
+Europe,Elevations Less Than or Equal To 12m ,Rural,9812906,10282757,11223256,8779223,146041
+Europe,Elevations Less Than or Equal To 12m ,Urban,38167942,39417882,44201162,37110048,57906
+Europe,Elevations Less Than or Equal To 1m,Rural,3742831,3912040,4227031,3236008,50401
+Europe,Elevations Less Than or Equal To 1m,Urban,9954478,10380836,11579113,9648341,15628
+Europe,Elevations Less Than or Equal To 20m ,Rural,13208952,13851590,15226199,11697732,212558
+Europe,Elevations Less Than or Equal To 20m ,Urban,53512695,55319289,62521646,51814850,84008
+Europe,Elevations Less Than or Equal To 3m,Rural,5224425,5463529,5929681,4744031,72134
+Europe,Elevations Less Than or Equal To 3m,Urban,16234092,16801906,18647708,15853153,24784
+Europe,Elevations Less Than or Equal To 5m,Rural,6411169,6704539,7286949,5832084,89853
+Europe,Elevations Less Than or Equal To 5m,Urban,21755340,22473128,24902148,21290248,32735
+Europe,Elevations Less Than or Equal To 7m,Rural,7515264,7865709,8568306,6811908,106158
+Europe,Elevations Less Than or Equal To 7m,Urban,26861165,27736249,30779447,26298853,40204
+Europe,Elevations Less Than or Equal To 9m,Rural,8463637,8861773,9662812,7634002,121681
+Europe,Elevations Less Than or Equal To 9m,Urban,31613048,32647909,36469169,30887023,47442
+Europe,Total National Population,Rural,176568570,176558812,223529720,125348019,4840266
+Europe,Total National Population,Urban,362783257,371322835,481254575,317506277,632478
+North America,Elevations > 20m or Non-Contiguous ,Rural,113350248,128596426,128023212,255497778,19520575
+North America,Elevations > 20m or Non-Contiguous ,Urban,260535875,296757222,314603927,402225848,972417
+North America,Elevations Less Than or Equal To 10m ,Rural,4510499,5107953,4527895,8103077,536562
+North America,Elevations Less Than or Equal To 10m ,Urban,24575726,27509478,28219257,46670306,61651
+North America,Elevations Less Than or Equal To 12m ,Rural,5388410,6126378,5451414,9794501,605670
+North America,Elevations Less Than or Equal To 12m ,Urban,30668871,34389588,35375008,58139996,76003
+North America,Elevations Less Than or Equal To 1m,Rural,592705,666803,610997,1027386,171365
+North America,Elevations Less Than or Equal To 1m,Urban,1566679,1730214,1814077,2382101,5968
+North America,Elevations Less Than or Equal To 20m ,Rural,8380426,9640179,8701571,15548820,867403
+North America,Elevations Less Than or Equal To 20m ,Urban,47379912,52995004,54253029,83639047,115225
+North America,Elevations Less Than or Equal To 3m,Rural,1183749,1344383,1233602,2012079,252729
+North America,Elevations Less Than or Equal To 3m,Urban,4024295,4406582,4551369,6066943,12827
+North America,Elevations Less Than or Equal To 5m,Rural,2078406,2337609,2079421,3593976,341640
+North America,Elevations Less Than or Equal To 5m,Urban,7848219,8590398,8771636,11828205,22829
+North America,Elevations Less Than or Equal To 7m,Rural,3088571,3465549,3050583,5396471,425342
+North America,Elevations Less Than or Equal To 7m,Urban,13479682,14889220,15145037,21342474,36321
+North America,Elevations Less Than or Equal To 9m,Rural,4038490,4562798,4039761,7143160,499762
+North America,Elevations Less Than or Equal To 9m,Urban,20649659,23006285,23449955,38174996,51825
+North America,Total National Population,Rural,121730674,138236608,136724785,271046607,20387978
+North America,Total National Population,Urban,307915785,349752222,368856952,485864890,1087642
+South America,Elevations > 20m or Non-Contiguous ,Rural,105821441,119567258,131717443,223382699,15247746
+South America,Elevations > 20m or Non-Contiguous ,Urban,146797669,176550823,203339934,329625178,270241
+South America,Elevations Less Than or Equal To 10m ,Rural,3707829,4283574,4703764,8943181,228599
+South America,Elevations Less Than or Equal To 10m ,Urban,14465697,17036372,19621238,32574367,19343
+South America,Elevations Less Than or Equal To 12m ,Rural,4291797,4967927,5459057,10353931,266951
+South America,Elevations Less Than or Equal To 12m ,Urban,17264014,20333114,23397554,38844410,22783
+South America,Elevations Less Than or Equal To 1m,Rural,473008,561960,619126,1091701,20582
+South America,Elevations Less Than or Equal To 1m,Urban,709558,868060,1009758,1591369,1159
+South America,Elevations Less Than or Equal To 20m ,Rural,6529092,7584065,8338764,15819940,452502
+South America,Elevations Less Than or Equal To 20m ,Urban,27065733,31912544,36628423,59958936,34982
+South America,Elevations Less Than or Equal To 3m,Rural,943950,1106559,1214846,2218252,55898
+South America,Elevations Less Than or Equal To 3m,Urban,2117574,2538559,2938229,4406100,3758
+South America,Elevations Less Than or Equal To 5m,Rural,1804718,2093408,2291934,4244576,110866
+South America,Elevations Less Than or Equal To 5m,Urban,5101423,6089933,7038516,11400038,8354
+South America,Elevations Less Than or Equal To 7m,Rural,2680636,3089887,3387405,6416774,165073
+South America,Elevations Less Than or Equal To 7m,Urban,9357959,11074365,12771388,21107053,13236
+South America,Elevations Less Than or Equal To 9m,Rural,3373239,3888725,4267061,8057467,208002
+South America,Elevations Less Than or Equal To 9m,Urban,12822897,15110534,17402616,28930098,17430
+South America,Total National Population,Rural,112350531,127151325,140056209,239202641,15711683
+South America,Total National Population,Urban,173863402,208463363,239968353,389584115,306223

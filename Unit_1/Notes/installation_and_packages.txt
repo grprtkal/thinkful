@@ -1,0 +1,26 @@
+1. Anaconda: 
+Anaconda is a distribution of Python which includes a lot of packages related to math, science, data analysis, etc.
+Installation here: http://docs.continuum.io/anaconda/install.html
+Conda documentation here: http://conda.pydata.org/docs/index.html
+
+2. Package managers: 
+Package managers make it easy for you install and maintain packages; they keep track of dependencies b/w packages and make sure everything is up to date and in sync with each other. 
+
+	Pip vs. conda: 
+	- Pip is a general purpose Python package manager
+	- Conda is a package manager for packages included in Anaconda
+	- Pip and conda can be used side by side but not interchangeably 
+
+3. Virtual environments: 
+Virtual environments allow you to install and keep packages for your projects in separate places. So if you install a package, this package does not have to be used across all your projects. Project A may require NumPy. Project B may require Scrapy. But Project A doesn't need Scrapy; and Project B doesn't need NumPy. You can also have different versions of packages for different projects.
+
+	Pip: 
+	- For pip, use virtualenv
+	http://docs.python-guide.org/en/latest/dev/virtualenvs/
+
+	Conda: 
+	- For conda, use conda create
+	http://conda.pydata.org/docs/test-drive.html#managing-environments
+	http://conda.pydata.org/docs/faq.html#managing-environments
+
+

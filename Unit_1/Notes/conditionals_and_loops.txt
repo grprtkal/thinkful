@@ -1,0 +1,77 @@
+1. conditional syntax: 
+if 5 < 3:
+    print("Things might be a little off...")
+else:
+    print("Yep, math works today.")
+
+2. loops: for iterating over sequence of things
+	1. for loop: 
+
+		1. To iterate over list: 
+
+			animals = ("whale", "monkey", "rabbit")
+
+			for animal in animals: 
+				print(animal)
+
+			output --> whale
+					   monkey
+					   rabbit
+
+		singers = {"Mariah Carey": "Heartbreaker", "Whitney Houston": "I Will Always Love You", "Nelly": "Country Grammar"}
+
+		1. To iterate over keys: 
+
+			for singer in singers: 
+				print(singer)
+
+			output --> Mariah Carey 
+					   Whitney Houston
+					   Nelly
+		
+		2. To iterate over values: 
+
+			for song in singers.itervalues(): 
+				print(song)
+
+			output --> Heartbreaker
+					   I Will Always Love You
+					   Country Grammar
+		
+		2. To iterate over keys and values: 
+
+			for singer, song in singers.iteritems(): 
+				print(singer, song)
+
+			output --> Mariah Carey Heartbreaker
+					   Whitney Houston I Will Always Love You
+					   Nelly Country Grammar
+
+	2. while loop: iterating over series of things given certain conditions 
+		miles_run = 0
+		running   = True
+
+		while running:
+		    if miles_run <= 10:
+		        print("Still running! On mile {}".format(miles_run))
+		        miles_run += 1
+		    else:
+		        running = False
+		else:
+		    print("Whew! I'm tired")
+
+
+	3. try: use when you want to define what to do when there is an error
+		a = 1
+		b = 0 
+
+		try: 
+			a/b
+		except: 
+			print("Uh oh. There was an error.")
+
+
+
+
+
+
