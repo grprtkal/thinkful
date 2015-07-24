@@ -37,6 +37,8 @@ with con:
 
     # load data into a pandas data frame
     df = pd.DataFrame(rows)
+
+    # create variables for data frame values
     city = df[0]
     state = df[1]
     warm_month = df[4]
