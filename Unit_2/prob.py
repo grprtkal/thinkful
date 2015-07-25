@@ -12,16 +12,16 @@ print(freq)
 # boxplot
 plt.boxplot(numlist)
 plt.title("Boxplot of Numbers")
-plt.show()
+plt.savefig("boxplot.png")
 
 # histogram
 plt.hist(numlist, histtype="bar")
 plt.title("Histogram of Numbers")
-plt.show()
+plt.savefig("histogram.png")
 
 # qq-plot
 plt.figure()
 norm_numlist = np.random.normal(numlist)
 stats.probplot(norm_numlist, dist="norm", plot=plt)
-plt.show()
+plt.savefig("qqplot.png")
 

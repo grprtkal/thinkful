@@ -28,9 +28,7 @@ data = [i.split(",") for i in data]
 column_names = data[0]
 data_rows = data[1::] #everything after row 1
 df = pd.DataFrame(data_rows, columns=column_names)
-
 print df
-
 
 df['Alcohol'] = df['Alcohol'].astype(float)
 df['Tobacco'] = df['Tobacco'].astype(float)
