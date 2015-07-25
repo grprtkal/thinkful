@@ -1,0 +1,17 @@
+Use box plot and histogram for plotting distributions
+
+For discrete data:
+    1. Box plot
+    2. Histograms
+
+For continuous data:
+    1. QQ-Plots
+
+
+For continuous data, we look at marginal distribution or probability density
+
+Normal distribution
+
+Uniform distribution
+
+QQ Plot: plots your data against normally distribution with same mean and SD of your data

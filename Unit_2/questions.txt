@@ -1,0 +1,21 @@
+1. Naming conventions for files
+2. What is difference between standard deviation and variance (other than how they are calculated)?
+3. What is a random variable?
+4. Explain this code:
+
+import matplotlib.pyplot as plt
+import numpy as np
+import matplotlib.mlab as mlab
+
+mean = 0
+variance = 1
+sigma = np.sqrt(variance) # this is the standard deviation
+x = np.linspace(-3,3,100)
+plt.plot(x, mlab.normpdf(x,mean,sigma))
+
+plt.show()
+
+5. What is the difference between collections library, pandas, and numpy? What to use and when?
+
+6. Explain boxplot
+
