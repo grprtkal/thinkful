@@ -17,5 +17,5 @@ plt.show()
 
 5. What is the difference between collections library, pandas, and numpy? What to use and when?
 
-6. Explain boxplot
+6. Explain boxplot and qq plot
 

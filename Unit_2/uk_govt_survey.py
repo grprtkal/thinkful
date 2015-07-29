@@ -2,7 +2,7 @@ import pandas as pd
 from scipy import stats
 
 
-data = '''Region, Alcohol, Tobacco
+data = '''Region,Alcohol,Tobacco
 North, 6.47, 4.03
 Yorkshire, 6.13, 3.76
 Northeast, 6.19, 3.77
@@ -28,7 +28,7 @@ data = [i.split(",") for i in data]
 column_names = data[0]
 data_rows = data[1::] #everything after row 1
 df = pd.DataFrame(data_rows, columns=column_names)
-print df
+print df['Alcohol']
 
 df['Alcohol'] = df['Alcohol'].astype(float)
 df['Tobacco'] = df['Tobacco'].astype(float)
