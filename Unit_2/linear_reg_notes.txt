@@ -1,0 +1,8 @@
+Data exploration:
+1. Check histogram, scatterplot and/or scatter box plot --> check type of distribution (normal?)
+
+Linear Regression -- check extent to which variables are associated
+1. Check p value
+2. Check r-squared value
+
+In order to be linear regression, does it have to be normally distributed? 
