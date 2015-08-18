@@ -1,0 +1,28 @@
+1. Create a db:
+    sqlite sample_db.db
+2. Create a table:
+    CREATE TABLE weather (city integer, year integer, warm_month text, cold_month text, average_high integer);
+3. Insert values into the table:
+     INSERT INTO weather (city, year, warm_month, cold_month, average_high) VALUES ("Boston", 2012, "July",
+     "January", 62);
+4. Select all values:
+    SELECT * FROM weather;
+5. Select specific values:
+    SELECT citySE, year FROM weather;
+    SELECT city, year FROM weather WHERE city="Boston";
+    SELECT city FROM weather WHERE city LIKE "%bo%";
+    #where city city contains substring of "bo"
+    #% indicates any character can come before or after the substringSELE
+    SELECT COUNT(*) FROM weather WHERE city="Boston";
+6. To export data to csv:
+    .mode csv
+    .headers on
+    .output weather.csv
+    select * from weather;
+    .output stdout
+7. To import data to csv:
+    create table weather_copy(city name, year text, warm_month text, cold_month text, average_high integer);
+    .separator ","
+    .import weather.csv weather_copy
+    #create a new table and then import csv data into the table
+
