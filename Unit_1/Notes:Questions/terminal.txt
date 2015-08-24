@@ -1,0 +1,12 @@
+pwd: print working directory 
+mkdir: create working directory 
+ls: list contents of current directory 
+touch: create a new file
+rmdir: delete directory (the directory can't have files within it)
+rm: delete file
+cd: change directory
+cd ..: go back one level of a directory 
+~: home directory; cd ~ will take you to your home directory
+cp: copies files (in same or new directory); cd nameoffiletobecopied.txt nameofnewfile.text
+mv: moves files; mv nameoffiletobemoved.txt /Users/gkalra/path/name
+

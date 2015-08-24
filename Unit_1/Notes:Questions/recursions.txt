@@ -1,0 +1,6 @@
+Recursion: function that calls itself 
+Base case: the base case is the conditional in the recursive function which prevents the function from executing forever
+Infinite recursion: if a recursion never reaches a base case, it makes recursive calls over and over.. forever; the function will keep executing and never terminate (you will get an error message, function doesn't actually execute forever)
+
+
+

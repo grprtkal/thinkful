@@ -1,0 +1,20 @@
+Variable,Description
+ISO3v10,Unique identifying 3 character country code from ISO
+Continent,"The Global Rural-Urban Mapping Project, Version 1 (GRUMPv1) National Boundaries Dataset distinguishes state entities."
+Country,"The Global Rural-Urban Mapping Project, Version 1 (GRUMPv1) National Boundaries Dataset categorizes state entities by continent."
+GeoRegion,"The geographical regions used by the United Nations Statistics Division in its publications and databases. Each country is shown in one region only. Geo Regions refer to the UN’s macro geographical regions, and correspond as closely as possible to continents. "
+GeoSubregion,"Within macro geographical groupings, more detailed sub-regions are shown. From the UN: “The assignment of countries or areas to specific groupings is for statistical convenience and does not imply any assumption regarding political or other affiliation of countries or territories by the United Nations.”"
+ElevationZone,Elevation data used to generate the low elevation coastal zones come from the SRTM3 Enhanced Global Map developed by ISCIENCES. The ISCIENCES digital elevation model was created using NASA’s Jet Propulsion Laboratory Shuttle Radar Topography Mission data processed to 3 arc-seconds (SRTM3).
+Income Group,"From the World Bank: ""Economies are divided according to 2010 GNI per capita, calculated using the World Bank Atlas method. The groups are: low income, $1,005 or less; lower middle income, $1,006 - $3,975; upper middle income, $3,976 - $12,275; and high income, $12,276 or more."""
+Lending Category,"From the World Bank: ""IDA countries are those that had a per capita income in 2010 of less than $1,175 and lack the financial ability to borrow from the International Bank for Reconstruction and Development (IBRD). IDA loans are deeply concessional—interest-free loans and grants for programs aimed at boosting economic growth and improving living conditions. IBRD loans are noncessional. Blend countries are eligible for IDA loans because of their low per capita incomes but are also eligible for IBRD loans because they are financially creditworthy."""
+UrbanRuralDesignation,"The Global Rural-Urban Mapping Project, Version 1 (GRUMPv1) urban extent grid distinguishes urban and rural areas based on a combination of population counts (persons), settlement points, and the presence of Nighttime Lights . Areas are defined as urban where contiguous lighted cells from the Nighttime Lights or approximated urban extents based on buffered settlement points for which the total population is greater than 5,000 persons. This dataset is produced by the Columbia University Center for International Earth Science Information Network (CIESIN) in collaboration with the International Food Policy Research Institute (IFPRI), The World Bank, and Centro Internacional de Agricultura Tropical (CIAT)"
+Population1990,Population counts in low elevation zones in the year 1990 as described by GRUMPv1 input estimates allocated into 3 arc second grid cells
+Population2000,Population counts in low elevation zones in the year 2000 as described by GRUMPv1 input estimates allocated into 3 arc second grid cells
+Population2010,Population counts in low elevation zones in the year 2010 derived from the application of United Nations 2000-2010 urban and rural growth rates to year 2000 population data from GRUMPv1 ( see documentation for full description of methodologies )
+Population2100,Extrapolated population counts in low elevation zones in the year 2100 as derived from the application of a calculated 100 year growth rate from IIASA GGI Downscaled Spatially Explicit Socio-Economic Scenario Data ( see documentation for full description of methodologies )
+LandArea,Land Areas in square kilometers
+PercentofCountryPopulation1990,Percent of total country population year 1990
+PercentofCountryPopulation2000,Percent of total country population year 2000
+PercentofCountryPopulation2010,Percent of total country population year 2010
+PercentofCountryPopulation2100,Percent of total country population year 2100
+PercentofCountryLandArea,Percent of total country land area

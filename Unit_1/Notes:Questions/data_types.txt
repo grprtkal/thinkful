@@ -1,0 +1,38 @@
+1. ipython: cool interactive shell that has featuers like browser-based notebook and support for data visualizations 
+- To start using ipython, go to directory you want to use. In terminal, type ipython
+
+2. Strong vs Weak Typed Languages: how data types mingle
+- In weak typed language like JS, you can combine different data types. For example, console.log("number of apples: " + 3);
+- In strong typed language like Python, this isn't allowed; you can't add a string to a number unless you convert the number to a string using something like format() or str() method; data types must be the same.
+
+3. Static vs. Dynamic Language: whether or not to declare data types
+- In statically typed language (Java, C, C++), you must declare your data type before using it. The data type is checked at compile time. 
+- In dyanamic language (Python, Ruby, PHP), you don't need to declare your data type before hand. They will be interpreted at run time. 
+
+*Python is strongly typed and dynamic language. You can't combine different data types but you don't have to declare the data type before using them 
+
+4. Data Types
+	1. Boolean: true or false 
+		- Use bool() to convert value to boolean
+		- Anything that represents "nothing" (none, 0, and empty strings or lists) will evaluate to False
+		- Anything that representst "something" (an integer, string, etc.) will evaluate to True
+		- Mostly used for checking arithmetic operations: 
+			answer = 2 + 5; 
+			2 == answer 
+	2. String: series of characters	
+		- Single quotes '' or double "" ok
+	3. Integer: whole number
+	4. Float: number with decimals
+	5. Long: really big number of unlimited size 
+	6. List: mutable sequence of stuff but can't change order (can only append, pop, etc.); array in PHP
+		[1, 2, 5]
+	7. Tuple: immutable sequence of stuff
+		(1, 2, 5)
+	8. Sets: list which returns only unique entries
+		{1, 2, 5, 5, 5} or set([1, 2, 5, 5, 5]) will have output of {1, 2, 5}
+	9. Dictionaries: keys with values 
+		sports = {"Larry": "baseball player", "Susy": "boxer", "Tom": "dancer"}
+		To access using key: sports["Larry"]
+
+
+

@@ -1,0 +1,47 @@
+Questions:
+1. Project idea: Use Twitter API and mapping tool to plot natural disasters in real time. Can I have a lesson on Natural
+Language Processing?
+
+2. What is the typical development environment/work flow for data scientists? Use iPython notebook? Or a text editor
+and iPython? In the examples we running functions in iPython.. is it possible to execute a python file in iPython?
+
+3. Go over recursion examples; when would I use this? Is this commonly used in data science?
+
+4. When do you use rU vs just r when reading files? In examples, sometimes show rU, other times just r.
+
+5. What does defaultdict function do -- turns an element in your csv file (i.e integer, string) into a key? This is
+in Lesson 1, part 6: Read and Writing Files in Python
+
+
+Questions:
+
+1. What is stdout (in lesson on Getting Familiar with SQL Lite)
+2. How to open a sqlite .db file?
+3. How to turn data into string?
+
+import sqlite3 as lite
+
+#connect to database
+con = lite.connect("sample_db.db")
+
+with con:
+    #create cursor object which goes over records that result from query
+    cur = con.cursor()
+
+    #call cursor object's execute method
+    cur.execute("SELECT warm_month FROM weather")
+
+    #fetch data from cursor object
+    data = cur.fetchone()
+
+    #print result
+    print ("Warm month: {}".format(data))
+
+    #output: Warm month: (u'July',)
+
+4. What does con.cursor do?
+
+5. For database.py exercise, I get output as dtype:object -- how to turn this into string?
+
+6.
+

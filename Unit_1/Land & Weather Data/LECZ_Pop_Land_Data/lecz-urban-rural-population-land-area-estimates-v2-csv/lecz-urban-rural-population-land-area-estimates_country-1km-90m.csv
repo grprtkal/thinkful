@@ -1,0 +1,1189 @@
+ISO3v10,Country,Continent,ElevationZone,UrbanRuralDesignation,Population1990,PercentofCountryPopulation1990,Population2000,PercentofCountryPopulation2000,Population2010,PercentofCountryPopulation2010,Population2100,PercentofCountryPopulation2100
+DZA,Algeria,Africa,10m LECZ: 1 km Cell Size,Rural,144990,0.6,153391,0.5,170660,0.5,254103,0.4
+DZA,Algeria,Africa,10m LECZ: 1 km Cell Size,Urban,467158,1.8,603441,2,742597,2.1,967033,1.7
+DZA,Algeria,Africa,10m LECZ: 90m Cell Size,Rural,80182,0.3,86281,0.3,95995,0.3,144794,0.3
+DZA,Algeria,Africa,10m LECZ: 90m Cell Size,Urban,298082,1.2,385441,1.3,474326,1.3,610378,1.1
+DZA,Algeria,Africa,Total National Population,Rural,11824541,46.8,12735206,41.8,14168998,39.4,25071522,44.3
+DZA,Algeria,Africa,Total National Population,Urban,13462918,53.2,17723960,58.2,21811195,60.6,31466756,55.7
+AGO,Angola,Africa,10m LECZ: 1 km Cell Size,Rural,46374,0.6,63713,0.5,88187,0.4,441275,0.9
+AGO,Angola,Africa,10m LECZ: 1 km Cell Size,Urban,338323,4.2,553786,4,825028,4.2,1350903,2.7
+AGO,Angola,Africa,10m LECZ: 90m Cell Size,Rural,46514,0.6,61117,0.4,84595,0.4,466041,0.9
+AGO,Angola,Africa,10m LECZ: 90m Cell Size,Urban,253003,3.1,380588,2.8,566998,2.9,911507,1.8
+AGO,Angola,Africa,Total National Population,Rural,5386003,66.1,9410649,68,13025640,66.4,37733452,75.2
+AGO,Angola,Africa,Total National Population,Urban,2759857,33.9,4425300,32,6592792,33.6,12469711,24.8
+BEN,Benin,Africa,10m LECZ: 1 km Cell Size,Rural,221548,4.3,335460,4.7,416729,4.6,1207995,5
+BEN,Benin,Africa,10m LECZ: 1 km Cell Size,Urban,838020,16.2,1148951,16,1496594,16.4,3638891,15.1
+BEN,Benin,Africa,10m LECZ: 90m Cell Size,Rural,232172,4.5,351811,4.9,437042,4.8,1264689,5.3
+BEN,Benin,Africa,10m LECZ: 90m Cell Size,Urban,906612,17.5,1238770,17.2,1613591,17.7,3926636,16.3
+BEN,Benin,Africa,Total National Population,Rural,3114187,60.1,4553745,63.3,5656945,62.2,15561468,64.8
+BEN,Benin,Africa,Total National Population,Urban,2064073,39.9,2643209,36.7,3442977,37.8,8469834,35.2
+CMR,Cameroon,Africa,10m LECZ: 1 km Cell Size,Rural,65274,0.6,76183,0.5,100637,0.5,139981,0.5
+CMR,Cameroon,Africa,10m LECZ: 1 km Cell Size,Urban,241558,2.1,350876,2.4,485710,2.4,536804,1.8
+CMR,Cameroon,Africa,10m LECZ: 90m Cell Size,Rural,102926,0.9,118030,0.8,155914,0.8,200841,0.7
+CMR,Cameroon,Africa,10m LECZ: 90m Cell Size,Urban,254080,2.2,371557,2.5,514338,2.6,586854,2
+CMR,Cameroon,Africa,Total National Population,Rural,7170568,61.6,8362437,56.3,11046578,55.1,17240148,59
+CMR,Cameroon,Africa,Total National Population,Urban,4477369,38.4,6489879,43.7,8983784,44.9,12004398,41
+CPV,Cape Verde,Africa,10m LECZ: 1 km Cell Size,Rural,28897,8.4,35270,8.1,39272,7.8,30856,8.1
+CPV,Cape Verde,Africa,10m LECZ: 1 km Cell Size,Urban,14005,4.1,23077,5.3,27512,5.5,20189,5.3
+CPV,Cape Verde,Africa,10m LECZ: 90m Cell Size,Rural,11485,3.3,14068,3.2,15664,3.1,12308,3.2
+CPV,Cape Verde,Africa,10m LECZ: 90m Cell Size,Urban,11855,3.5,21072,4.8,25122,5,18435,4.8
+CPV,Cape Verde,Africa,Total National Population,Rural,205844,60,237960,54.6,264961,52.9,208177,54.6
+CPV,Cape Verde,Africa,Total National Population,Urban,137242,40,197643,45.4,235624,47.1,172908,45.4
+CIV,Cote d'Ivoire,Africa,10m LECZ: 1 km Cell Size,Rural,67649,0.5,105674,0.6,124965,0.6,334690,0.9
+CIV,Cote d'Ivoire,Africa,10m LECZ: 1 km Cell Size,Urban,786193,6.2,957226,5.7,1196465,5.9,2320274,6
+CIV,Cote d'Ivoire,Africa,10m LECZ: 90m Cell Size,Rural,72355,0.6,113260,0.7,133937,0.7,348440,0.9
+CIV,Cote d'Ivoire,Africa,10m LECZ: 90m Cell Size,Urban,873947,6.9,1064054,6.4,1329993,6.6,2788500,7.2
+CIV,Cote d'Ivoire,Africa,Total National Population,Rural,7733727,61.1,11344969,67.8,13416051,66.6,23758002,61.4
+CIV,Cote d'Ivoire,Africa,Total National Population,Urban,4923452,38.9,5389778,32.2,6736843,33.4,14922740,38.6
+COD,Democratic Republic of the Congo,Africa,10m LECZ: 1 km Cell Size,Rural,4591,0,11602,0,15565,0,31452,0
+COD,Democratic Republic of the Congo,Africa,10m LECZ: 1 km Cell Size,Urban,6912,0,6764,0,9443,0,13609,0
+COD,Democratic Republic of the Congo,Africa,10m LECZ: 90m Cell Size,Rural,5915,0,14517,0,19475,0,38723,0
+COD,Democratic Republic of the Congo,Africa,10m LECZ: 90m Cell Size,Urban,30484,0.1,31341,0.1,43752,0.1,69041,0
+COD,Democratic Republic of the Congo,Africa,Total National Population,Rural,27955392,74,38844100,77.6,52112504,76.9,173499840,82.9
+COD,Democratic Republic of the Congo,Africa,Total National Population,Urban,9808615,26,11207029,22.4,15645073,23.1,35876968,17.1
+DJI,Djibouti,Africa,10m LECZ: 1 km Cell Size,Rural,5802,1,8757,1.2,11116,1.2,21353,1.3
+DJI,Djibouti,Africa,10m LECZ: 1 km Cell Size,Urban,203509,36.7,264880,37.3,337971,37.3,460868,29.1
+DJI,Djibouti,Africa,10m LECZ: 90m Cell Size,Rural,8492,1.5,11398,1.6,14469,1.6,24111,1.5
+DJI,Djibouti,Africa,10m LECZ: 90m Cell Size,Urban,160033,28.8,207889,29.3,265253,29.3,365075,23
+DJI,Djibouti,Africa,Total National Population,Rural,145182,26.2,181424,25.5,230299,25.4,608523,38.4
+DJI,Djibouti,Africa,Total National Population,Urban,409810,73.8,529229,74.5,675265,74.6,976761,61.6
+EGY,Egypt,Africa,10m LECZ: 1 km Cell Size,Rural,11490747,20.8,14225177,21.3,17505172,21.2,44243440,24.5
+EGY,Egypt,Africa,10m LECZ: 1 km Cell Size,Urban,9388177,17,11072172,16.6,13688436,16.6,42936808,23.8
+EGY,Egypt,Africa,10m LECZ: 90m Cell Size,Rural,11115335,20.1,13754248,20.6,16925658,20.5,42845544,23.7
+EGY,Egypt,Africa,10m LECZ: 90m Cell Size,Urban,8785626,15.9,10347814,15.5,12792918,15.5,40629660,22.5
+EGY,Egypt,Africa,Total National Population,Rural,15963570,28.9,19783380,29.6,24344968,29.5,58590084,32.4
+EGY,Egypt,Africa,Total National Population,Urban,39354760,71.1,47069632,70.4,58191802,70.5,122165456,67.6
+GNQ,Equatorial Guinea,Africa,10m LECZ: 1 km Cell Size,Rural,6907,2,9649,2.2,15509,2.2,15653,2.4
+GNQ,Equatorial Guinea,Africa,10m LECZ: 1 km Cell Size,Urban,25497,7.2,19014,4.2,30693,4.3,23694,3.7
+GNQ,Equatorial Guinea,Africa,10m LECZ: 90m Cell Size,Rural,3361,1,4939,1.1,7938,1.1,8311,1.3
+GNQ,Equatorial Guinea,Africa,10m LECZ: 90m Cell Size,Urban,8734,2.5,6452,1.4,10415,1.4,9169,1.4
+GNQ,Equatorial Guinea,Africa,Total National Population,Rural,259493,73.7,378325,84.5,608067,84.4,566849,87.4
+GNQ,Equatorial Guinea,Africa,Total National Population,Urban,92456,26.3,69473,15.5,112146,15.6,81370,12.6
+ERI,Eritrea,Africa,10m LECZ: 1 km Cell Size,Rural,42623,1.4,49877,1.4,75537,1.4,223617,1.6
+ERI,Eritrea,Africa,10m LECZ: 1 km Cell Size,Urban,11310,0.4,13299,0.4,20974,0.4,89091,0.7
+ERI,Eritrea,Africa,10m LECZ: 90m Cell Size,Rural,38426,1.3,44982,1.3,68124,1.3,205113,1.5
+ERI,Eritrea,Africa,10m LECZ: 90m Cell Size,Urban,12242,0.4,14397,0.4,22706,0.4,94758,0.7
+ERI,Eritrea,Africa,Total National Population,Rural,2588266,85.3,2973493,83.7,4503254,83.2,11750676,85.8
+ERI,Eritrea,Africa,Total National Population,Urban,445770,14.7,578300,16.3,912026,16.8,1947232,14.2
+ETH,Ethiopia,Africa,10m LECZ: 1 km Cell Size,Rural,0,0,0,0,0,0,0,0
+ETH,Ethiopia,Africa,10m LECZ: 1 km Cell Size,Urban,0,0,0,0,0,0,0,0
+ETH,Ethiopia,Africa,10m LECZ: 90m Cell Size,Rural,0,0,0,0,0,0,0,0
+ETH,Ethiopia,Africa,10m LECZ: 90m Cell Size,Urban,0,0,0,0,0,0,0,0
+ETH,Ethiopia,Africa,Total National Population,Rural,45886408,89.9,60925468,88.9,75086726,88.6,236294384,90.4
+ETH,Ethiopia,Africa,Total National Population,Urban,5153849,10.1,7599685,11.1,9647536,11.4,25219054,9.6
+GAB,Gabon,Africa,10m LECZ: 1 km Cell Size,Rural,32452,3.4,43827,3.5,50354,3.3,166500,5.9
+GAB,Gabon,Africa,10m LECZ: 1 km Cell Size,Urban,111105,11.7,156428,12.4,194940,12.7,413605,14.6
+GAB,Gabon,Africa,10m LECZ: 90m Cell Size,Rural,31953,3.4,41620,3.3,47818,3.1,157225,5.5
+GAB,Gabon,Africa,10m LECZ: 90m Cell Size,Urban,145981,15.3,202359,16,252179,16.4,586962,20.7
+GAB,Gabon,Africa,Total National Population,Rural,357221,37.5,434285,34.3,498958,32.5,819333,28.9
+GAB,Gabon,Africa,Total National Population,Urban,594887,62.5,830769,65.7,1035304,67.5,2017882,71.1
+GMB,Gambia,Africa,10m LECZ: 1 km Cell Size,Rural,148472,16.2,175436,13.6,233265,13.1,544844,16.8
+GMB,Gambia,Africa,10m LECZ: 1 km Cell Size,Urban,190405,20.8,283857,22,401286,22.6,673581,20.7
+GMB,Gambia,Africa,10m LECZ: 90m Cell Size,Rural,158703,17.3,185301,14.3,246382,13.9,606256,18.6
+GMB,Gambia,Africa,10m LECZ: 90m Cell Size,Urban,172026,18.8,255772,19.8,361582,20.4,613560,18.9
+GMB,Gambia,Africa,Total National Population,Rural,511964,55.9,611283,47.3,812782,45.8,1664690,51.2
+GMB,Gambia,Africa,Total National Population,Urban,404351,44.1,681424,52.7,963321,54.2,1586191,48.8
+GHA,Ghana,Africa,10m LECZ: 1 km Cell Size,Rural,199835,1.3,236078,1.2,289256,1.2,788166,1.6
+GHA,Ghana,Africa,10m LECZ: 1 km Cell Size,Urban,344822,2.2,469430,2.4,608860,2.4,1109135,2.2
+GHA,Ghana,Africa,10m LECZ: 90m Cell Size,Rural,234067,1.5,279145,1.4,342024,1.4,907303,1.8
+GHA,Ghana,Africa,10m LECZ: 90m Cell Size,Urban,495372,3.2,670023,3.4,869032,3.5,1550361,3.1
+GHA,Ghana,Africa,Total National Population,Rural,9291815,60,11139585,56.1,13648855,54.7,30797370,61.1
+GHA,Ghana,Africa,Total National Population,Urban,6186076,40,8725368,43.9,11316961,45.3,19588586,38.9
+GIN,Guinea,Africa,10m LECZ: 1 km Cell Size,Rural,164620,2.6,164245,1.9,197177,1.9,1517658,4.2
+GIN,Guinea,Africa,10m LECZ: 1 km Cell Size,Urban,400484,6.4,476498,5.7,592405,5.8,4731328,13
+GIN,Guinea,Africa,10m LECZ: 90m Cell Size,Rural,168213,2.7,171689,2,206113,2,1609055,4.4
+GIN,Guinea,Africa,10m LECZ: 90m Cell Size,Urban,412553,6.6,491011,5.8,610449,6,4806786,13.2
+GIN,Guinea,Africa,Total National Population,Rural,4357524,70.1,6138252,72.8,7368991,72.1,20799882,57
+GIN,Guinea,Africa,Total National Population,Urban,1859029,29.9,2294649,27.2,2852817,27.9,15721271,43
+GNB,Guinea Bissau,Africa,10m LECZ: 1 km Cell Size,Rural,250018,24.6,332727,24.4,371500,24,2665574,30.1
+GNB,Guinea Bissau,Africa,10m LECZ: 1 km Cell Size,Urban,73018,7.2,102167,7.5,121174,7.8,823561,9.3
+GNB,Guinea Bissau,Africa,10m LECZ: 90m Cell Size,Rural,253795,25,337599,24.7,376939,24.4,2670583,30.1
+GNB,Guinea Bissau,Africa,10m LECZ: 90m Cell Size,Urban,87220,8.6,121716,8.9,144360,9.3,994272,11.2
+GNB,Guinea Bissau,Africa,Total National Population,Rural,779829,76.8,1036495,75.9,1157279,74.8,6247357,70.4
+GNB,Guinea Bissau,Africa,Total National Population,Urban,235311,23.2,328642,24.1,389782,25.2,2622778,29.6
+KEN,Kenya,Africa,10m LECZ: 1 km Cell Size,Rural,124034,0.5,166593,0.5,224315,0.5,152641,0.3
+KEN,Kenya,Africa,10m LECZ: 1 km Cell Size,Urban,95923,0.4,128829,0.4,180907,0.4,134146,0.3
+KEN,Kenya,Africa,10m LECZ: 90m Cell Size,Rural,149790,0.6,201185,0.7,270893,0.7,188467,0.4
+KEN,Kenya,Africa,10m LECZ: 90m Cell Size,Urban,56399,0.2,75746,0.2,106365,0.3,74986,0.1
+KEN,Kenya,Africa,Total National Population,Rural,19223686,82.1,24799724,80.9,33392518,80.3,42486360,83.1
+KEN,Kenya,Africa,Total National Population,Urban,4178212,17.9,5851722,19.1,8217210,19.7,8610379,16.9
+LBR,Liberia,Africa,10m LECZ: 1 km Cell Size,Rural,115914,5.4,166979,5.5,224246,5.4,722022,4.7
+LBR,Liberia,Africa,10m LECZ: 1 km Cell Size,Urban,205122,9.6,296448,9.7,409168,9.9,2899640,19
+LBR,Liberia,Africa,10m LECZ: 90m Cell Size,Rural,114942,5.4,165097,5.4,221719,5.4,689967,4.5
+LBR,Liberia,Africa,10m LECZ: 90m Cell Size,Urban,200552,9.4,289831,9.5,400034,9.7,2862635,18.7
+LBR,Liberia,Africa,Total National Population,Rural,1755955,82.4,2482480,81.2,3333873,80.8,10224570,66.9
+LBR,Liberia,Africa,Total National Population,Urban,375046,17.6,575772,18.8,794699,19.2,5062060,33.1
+LBY,Libya,Africa,10m LECZ: 1 km Cell Size,Rural,51134,1.2,57192,1.1,68558,1.1,85207,0.7
+LBY,Libya,Africa,10m LECZ: 1 km Cell Size,Urban,544285,12.6,686730,12.9,834459,13,2099879,17.5
+LBY,Libya,Africa,10m LECZ: 90m Cell Size,Rural,35857,0.8,38816,0.7,46530,0.7,50885,0.4
+LBY,Libya,Africa,10m LECZ: 90m Cell Size,Urban,406962,9.4,514265,9.7,624893,9.7,1625268,13.5
+LBY,Libya,Africa,Total National Population,Rural,1210774,27.9,1369854,25.8,1642090,25.6,1986168,16.5
+LBY,Libya,Africa,Total National Population,Urban,3121490,72.1,3934333,74.2,4780682,74.4,10015800,83.5
+MDG,Madagascar,Africa,10m LECZ: 1 km Cell Size,Rural,392148,3.3,519431,3.2,679331,3.2,1567493,2.3
+MDG,Madagascar,Africa,10m LECZ: 1 km Cell Size,Urban,190691,1.6,256155,1.6,350339,1.6,729521,1.1
+MDG,Madagascar,Africa,10m LECZ: 90m Cell Size,Rural,385480,3.2,510443,3.2,667576,3.1,1445382,2.1
+MDG,Madagascar,Africa,10m LECZ: 90m Cell Size,Urban,187227,1.6,251462,1.6,343921,1.6,810296,1.2
+MDG,Madagascar,Africa,Total National Population,Rural,10273750,85.3,13810941,85.3,18062480,84.7,59430944,87.7
+MDG,Madagascar,Africa,Total National Population,Urban,1766318,14.7,2378222,14.7,3252655,15.3,8312817,12.3
+MWI,Malawi,Africa,10m LECZ: 1 km Cell Size,Rural,0,0,0,0,0,0,0,0
+MWI,Malawi,Africa,10m LECZ: 1 km Cell Size,Urban,0,0,0,0,0,0,0,0
+MWI,Malawi,Africa,10m LECZ: 90m Cell Size,Rural,0,0,0,0,0,0,0,0
+MWI,Malawi,Africa,10m LECZ: 90m Cell Size,Urban,0,0,0,0,0,0,0,0
+MWI,Malawi,Africa,Total National Population,Rural,7992718,84.5,9630550,83.7,12836786,83.5,27225820,81.5
+MWI,Malawi,Africa,Total National Population,Urban,1466678,15.5,1881853,16.3,2544102,16.5,6191856,18.5
+MLI,Mali,Africa,10m LECZ: 1 km Cell Size,Rural,0,0,0,0,0,0,0,0
+MLI,Mali,Africa,10m LECZ: 1 km Cell Size,Urban,0,0,0,0,0,0,0,0
+MLI,Mali,Africa,10m LECZ: 90m Cell Size,Rural,0,0,0,0,0,0,0,0
+MLI,Mali,Africa,10m LECZ: 90m Cell Size,Urban,0,0,0,0,0,0,0,0
+MLI,Mali,Africa,Total National Population,Rural,6992005,78.6,8724563,74.9,11696478,73.8,48325692,76.9
+MLI,Mali,Africa,Total National Population,Urban,1901827,21.4,2922361,25.1,4143060,26.2,14511409,23.1
+MRT,Mauritania,Africa,10m LECZ: 1 km Cell Size,Rural,384343,18.9,529824,20,707987,20,2909806,37.3
+MRT,Mauritania,Africa,10m LECZ: 1 km Cell Size,Urban,197633,9.7,266204,10.1,359302,10.1,962325,12.3
+MRT,Mauritania,Africa,10m LECZ: 90m Cell Size,Rural,370375,18.2,510763,19.3,682516,19.3,2852699,36.5
+MRT,Mauritania,Africa,10m LECZ: 90m Cell Size,Urban,185825,9.2,250185,9.5,337680,9.5,932021,11.9
+MRT,Mauritania,Africa,Total National Population,Rural,1598254,78.7,2012562,76.1,2689321,75.9,6020549,77.1
+MRT,Mauritania,Africa,Total National Population,Urban,431505,21.3,631403,23.9,852219,24.1,1789589,22.9
+MUS,Mauritius,Africa,10m LECZ: 1 km Cell Size,Rural,21922,2.1,24589,2.1,27462,2.1,38152,1.9
+MUS,Mauritius,Africa,10m LECZ: 1 km Cell Size,Urban,76402,7.3,85723,7.3,95049,7.3,133007,6.6
+MUS,Mauritius,Africa,10m LECZ: 90m Cell Size,Rural,21469,2,24096,2,26912,2.1,52821,2.6
+MUS,Mauritius,Africa,10m LECZ: 90m Cell Size,Urban,37559,3.6,42113,3.6,46695,3.6,69318,3.4
+MUS,Mauritius,Africa,Total National Population,Rural,94232,9,107601,9.1,120176,9.2,216328,10.7
+MUS,Mauritius,Africa,Total National Population,Urban,955216,91,1070007,90.9,1186417,90.8,1807245,89.3
+MYT,Mayotte,Africa,10m LECZ: 1 km Cell Size,Rural,9157,10.2,15521,10.2,21301,10.1,50856,10.2
+MYT,Mayotte,Africa,10m LECZ: 1 km Cell Size,Urban,6037,6.8,13202,8.7,18447,8.8,43258,8.7
+MYT,Mayotte,Africa,10m LECZ: 90m Cell Size,Rural,4622,5.2,8224,5.4,11286,5.4,26945,5.4
+MYT,Mayotte,Africa,10m LECZ: 90m Cell Size,Urban,2699,3,5653,3.7,7899,3.8,18523,3.7
+MYT,Mayotte,Africa,Total National Population,Rural,62197,69.6,96639,63.4,132622,63,316638,63.4
+MYT,Mayotte,Africa,Total National Population,Urban,27187,30.4,55773,36.6,77930,37,182743,36.6
+MAR,Morocco,Africa,10m LECZ: 1 km Cell Size,Rural,289081,1.2,348143,1.2,384361,1.2,838734,1.7
+MAR,Morocco,Africa,10m LECZ: 1 km Cell Size,Urban,751438,3.1,1020585,3.5,1157302,3.6,1778797,3.6
+MAR,Morocco,Africa,10m LECZ: 90m Cell Size,Rural,228503,0.9,278214,1,307157,1,692769,1.4
+MAR,Morocco,Africa,10m LECZ: 90m Cell Size,Urban,449518,1.9,627607,2.2,711681,2.2,1043372,2.1
+MAR,Morocco,Africa,Total National Population,Rural,14686560,60.5,16243908,56.2,17933765,55.6,27375390,55.9
+MAR,Morocco,Africa,Total National Population,Urban,9592727,39.5,12645253,43.8,14339209,44.4,21600612,44.1
+MOZ,Mozambique,Africa,10m LECZ: 1 km Cell Size,Rural,892042,6.7,1014566,5.7,1354395,5.7,2098818,4.6
+MOZ,Mozambique,Africa,10m LECZ: 1 km Cell Size,Urban,656484,4.9,1029063,5.8,1397645,5.8,4004659,8.9
+MOZ,Mozambique,Africa,10m LECZ: 90m Cell Size,Rural,898073,6.7,1041222,5.8,1389980,5.8,2345239,5.2
+MOZ,Mozambique,Africa,10m LECZ: 90m Cell Size,Urban,648049,4.8,1025480,5.7,1392779,5.8,4349397,9.6
+MOZ,Mozambique,Africa,Total National Population,Rural,10679479,79.8,13253550,74.3,17692825,73.9,26777914,59.2
+MOZ,Mozambique,Africa,Total National Population,Urban,2707673,20.2,4592113,25.7,6236883,26.1,18465046,40.8
+NAM,Namibia,Africa,10m LECZ: 1 km Cell Size,Rural,3697,0.3,5944,0.3,7175,0.3,3576,0.1
+NAM,Namibia,Africa,10m LECZ: 1 km Cell Size,Urban,24948,1.8,43097,2.3,54517,2.3,23415,0.9
+NAM,Namibia,Africa,10m LECZ: 90m Cell Size,Rural,3421,0.2,5470,0.3,6603,0.3,3340,0.1
+NAM,Namibia,Africa,10m LECZ: 90m Cell Size,Urban,23353,1.7,40054,2.1,50668,2.2,21701,0.8
+NAM,Namibia,Africa,Total National Population,Rural,984819,70.5,1237809,65.4,1494171,64.3,1139095,43.7
+NAM,Namibia,Africa,Total National Population,Urban,412473,29.5,655996,34.6,829833,35.7,1466663,56.3
+NGA,Nigeria,Africa,10m LECZ: 1 km Cell Size,Rural,1713936,2.5,2171647,2.6,4169249,2.6,8018686,3.3
+NGA,Nigeria,Africa,10m LECZ: 1 km Cell Size,Urban,3728183,5.5,4891164,5.8,9894815,6.1,12199153,5
+NGA,Nigeria,Africa,10m LECZ: 1 km Cell Size,Urban,27159710,40.4,38387312,45.5,77657461,47.8,106798072,43.6
+NGA,Nigeria,Africa,10m LECZ: 90m Cell Size,Rural,1717611,2.6,2175051,2.6,4175785,2.6,8059622,3.3
+NGA,Nigeria,Africa,10m LECZ: 90m Cell Size,Urban,3916456,5.8,5149537,6.1,10417503,6.4,12739425,5.2
+NGA,Nigeria,Africa,Total National Population,Rural,63378560,94.2,79200336,93.9,152053234,93.6,232171872,94.8
+COG,Republic of Congo,Africa,10m LECZ: 1 km Cell Size,Rural,3258,0.1,2217,0.1,2599,0.1,5810,0
+COG,Republic of Congo,Africa,10m LECZ: 1 km Cell Size,Urban,40893,1.6,61272,1.8,74572,1.8,160826,0.8
+COG,Republic of Congo,Africa,10m LECZ: 90m Cell Size,Rural,7313,0.3,3377,0.1,3960,0.1,8963,0
+COG,Republic of Congo,Africa,10m LECZ: 90m Cell Size,Urban,44515,1.8,66707,1.9,81186,2,175090,0.9
+COG,Republic of Congo,Africa,Total National Population,Rural,825628,33.3,965035,28.1,1131595,27.3,10330741,54
+COG,Republic of Congo,Africa,Total National Population,Urban,1657320,66.7,2471662,71.9,3008153,72.7,8801487,46
+REU,Reunion,Africa,10m LECZ: 1 km Cell Size,Rural,28142,4.7,34139,4.7,36258,4.2,52970,4.7
+REU,Reunion,Africa,10m LECZ: 1 km Cell Size,Urban,48365,8,58537,8.1,69789,8.2,90826,8.1
+REU,Reunion,Africa,10m LECZ: 90m Cell Size,Rural,5576,0.9,6753,0.9,7172,0.8,10477,0.9
+REU,Reunion,Africa,10m LECZ: 90m Cell Size,Urban,15122,2.5,18354,2.5,21882,2.6,28478,2.5
+REU,Reunion,Africa,Total National Population,Rural,55435,9.2,60161,8.3,63895,7.5,93346,8.3
+REU,Reunion,Africa,Total National Population,Urban,548551,90.8,664270,91.7,791954,92.5,1030680,91.7
+SHN,Saint Helena,Africa,10m LECZ: 1 km Cell Size,Rural,0,0,0,0,0,0,0,0
+SHN,Saint Helena,Africa,10m LECZ: 1 km Cell Size,Urban,0,0,0,0,0,0,0,0
+SHN,Saint Helena,Africa,10m LECZ: 90m Cell Size,Rural,1179,21.8,1031,21.1,854,21.1,2620,21.9
+SHN,Saint Helena,Africa,10m LECZ: 90m Cell Size,Urban,0,0,0,0,0,0,0,0
+SHN,Saint Helena,Africa,Total National Population,Rural,5409,100,4897,100,4055,100,11980,100
+SHN,Saint Helena,Africa,Total National Population,Urban,0,0,0,0,0,0,0,0
+STP,Sao Tome and Principe,Africa,10m LECZ: 1 km Cell Size,Rural,4816,4.2,4793,3.4,5523,3.3,17245,3.4
+STP,Sao Tome and Principe,Africa,10m LECZ: 1 km Cell Size,Urban,10688,9.2,15282,11,18875,11.2,54984,11
+STP,Sao Tome and Principe,Africa,10m LECZ: 90m Cell Size,Rural,555,0.5,545,0.4,628,0.4,1961,0.4
+STP,Sao Tome and Principe,Africa,10m LECZ: 90m Cell Size,Urban,6235,5.4,8887,6.4,10977,6.5,31976,6.4
+STP,Sao Tome and Principe,Africa,Total National Population,Rural,45396,39.1,38054,27.4,43848,26,136918,27.4
+STP,Sao Tome and Principe,Africa,Total National Population,Urban,70574,60.9,100944,72.6,124678,74,363196,72.6
+SEN,Senegal,Africa,10m LECZ: 1 km Cell Size,Rural,721175,9.1,843345,8.2,1037407,8.1,2971366,9.8
+SEN,Senegal,Africa,10m LECZ: 1 km Cell Size,Urban,1592139,20,2360860,22.9,2948915,23.1,4583416,15.1
+SEN,Senegal,Africa,10m LECZ: 90m Cell Size,Rural,683884,8.6,802872,7.8,987621,7.7,2791615,9.2
+SEN,Senegal,Africa,10m LECZ: 90m Cell Size,Urban,1372485,17.3,2048534,19.9,2558794,20,4133696,13.6
+SEN,Senegal,Africa,Total National Population,Rural,4794661,60.3,5680558,55.1,6987709,54.7,19988998,65.8
+SEN,Senegal,Africa,Total National Population,Urban,3154495,39.7,4627264,44.9,5779847,45.3,10401447,34.2
+SYC,Seychelles,Africa,10m LECZ: 1 km Cell Size,Rural,24043,33.4,25757,33.4,28706,33,214461,29.8
+SYC,Seychelles,Africa,10m LECZ: 1 km Cell Size,Urban,4778,6.6,5119,6.6,5835,6.7,50212,7
+SYC,Seychelles,Africa,10m LECZ: 90m Cell Size,Rural,15235,21.1,16321,21.1,18191,20.9,123510,17.2
+SYC,Seychelles,Africa,10m LECZ: 90m Cell Size,Urban,2813,3.9,3014,3.9,3435,4,29562,4.1
+SYC,Seychelles,Africa,Total National Population,Rural,40719,56.5,43622,56.5,48618,56,389716,54.2
+SYC,Seychelles,Africa,Total National Population,Urban,31333,43.5,33566,43.5,38261,44,329270,45.8
+SLE,Sierra Leone,Africa,10m LECZ: 1 km Cell Size,Rural,257097,6.3,286816,6.4,379315,6.3,1883893,10.4
+SLE,Sierra Leone,Africa,10m LECZ: 1 km Cell Size,Urban,132026,3.2,159383,3.5,216155,3.6,1175867,6.5
+SLE,Sierra Leone,Africa,10m LECZ: 90m Cell Size,Rural,248538,6.1,276421,6.1,365567,6.1,1835921,10.2
+SLE,Sierra Leone,Africa,10m LECZ: 90m Cell Size,Urban,59637,1.5,71622,1.6,97134,1.6,501592,2.8
+SLE,Sierra Leone,Africa,Total National Population,Rural,3013245,74,3245851,72.1,4292643,71.6,11004315,61
+SLE,Sierra Leone,Africa,Total National Population,Urban,1060056,26,1257072,27.9,1704843,28.4,7034011,39
+SOM,Somalia,Africa,10m LECZ: 1 km Cell Size,Rural,127188,1.9,198287,2.8,269271,2.8,657920,1
+SOM,Somalia,Africa,10m LECZ: 1 km Cell Size,Urban,76245,1.1,110779,1.6,155725,1.6,456781,0.7
+SOM,Somalia,Africa,10m LECZ: 90m Cell Size,Rural,173950,2.6,250333,3.6,339948,3.6,1553970,2.5
+SOM,Somalia,Africa,10m LECZ: 90m Cell Size,Urban,109604,1.6,149887,2.1,210700,2.2,716074,1.1
+SOM,Somalia,Africa,Total National Population,Rural,6038546,90.5,6161882,87.9,8367742,87.6,55380608,88.3
+SOM,Somalia,Africa,Total National Population,Urban,633271,9.5,845919,12.1,1189131,12.4,7371347,11.7
+ZAF,South Africa,Africa,10m LECZ: 1 km Cell Size,Rural,41302,0.1,51997,0.1,56126,0.1,48039,0.1
+ZAF,South Africa,Africa,10m LECZ: 1 km Cell Size,Urban,418333,1.1,428814,0.9,480902,1,498108,1.2
+ZAF,South Africa,Africa,10m LECZ: 90m Cell Size,Rural,45235,0.1,60563,0.1,65373,0.1,54819,0.1
+ZAF,South Africa,Africa,10m LECZ: 90m Cell Size,Urban,282064,0.8,284223,0.6,318747,0.6,306538,0.7
+ZAF,South Africa,Africa,Total National Population,Rural,13628740,37,16375497,35.9,17675904,35,12915133,30.2
+ZAF,South Africa,Africa,Total National Population,Urban,23246706,63,29233170,64.1,32784074,65,29822132,69.8
+SDN,Sudan,Africa,10m LECZ: 1 km Cell Size,Rural,57090,0.2,70888,0.2,73826,0.2,202745,0.3
+SDN,Sudan,Africa,10m LECZ: 1 km Cell Size,Urban,72929,0.3,118679,0.4,124246,0.4,217408,0.4
+SDN,Sudan,Africa,10m LECZ: 90m Cell Size,Rural,55255,0.2,68702,0.2,71549,0.2,194091,0.3
+SDN,Sudan,Africa,10m LECZ: 90m Cell Size,Urban,61880,0.2,101164,0.3,105909,0.3,185323,0.3
+SDN,Sudan,Africa,Total National Population,Rural,19379794,74.4,22507608,68.4,23440347,68.3,40535704,65.8
+SDN,Sudan,Africa,Total National Population,Urban,6683042,25.6,10390652,31.6,10878043,31.7,21073900,34.2
+SWZ,Swaziland,Africa,10m LECZ: 1 km Cell Size,Rural,0,0,0,0,0,0,0,0
+SWZ,Swaziland,Africa,10m LECZ: 1 km Cell Size,Urban,0,0,0,0,0,0,0,0
+SWZ,Swaziland,Africa,10m LECZ: 90m Cell Size,Rural,0,0,0,0,0,0,0,0
+SWZ,Swaziland,Africa,10m LECZ: 90m Cell Size,Urban,0,0,0,0,0,0,0,0
+SWZ,Swaziland,Africa,Total National Population,Rural,747523,86.4,889865,87,1048733,87.2,666718,91.5
+SWZ,Swaziland,Africa,Total National Population,Urban,117931,13.6,133200,13,154597,12.8,61799,8.5
+TZA,Tanzania,Africa,10m LECZ: 1 km Cell Size,Rural,272042,1,341055,1,451424,1,1632896,1.8
+TZA,Tanzania,Africa,10m LECZ: 1 km Cell Size,Urban,276615,1.1,417326,1.2,575992,1.2,3278739,3.6
+TZA,Tanzania,Africa,10m LECZ: 90m Cell Size,Rural,246414,0.9,307661,0.9,407224,0.9,1472338,1.6
+TZA,Tanzania,Africa,10m LECZ: 90m Cell Size,Urban,182391,0.7,270305,0.8,373074,0.8,2060631,2.3
+TZA,Tanzania,Africa,Total National Population,Rural,21723858,83.1,27819364,80.3,36822034,79.7,57254672,63.1
+TZA,Tanzania,Africa,Total National Population,Urban,4405374,16.9,6808057,19.7,9396452,20.3,33419426,36.9
+TGO,Togo,Africa,10m LECZ: 1 km Cell Size,Rural,30071,0.8,18392,0.3,20623,0.3,56767,0.4
+TGO,Togo,Africa,10m LECZ: 1 km Cell Size,Urban,386039,9.7,569648,10.6,664529,10.8,1547140,10.4
+TGO,Togo,Africa,10m LECZ: 90m Cell Size,Rural,30650,0.8,17952,0.3,20129,0.3,55024,0.4
+TGO,Togo,Africa,10m LECZ: 90m Cell Size,Urban,377546,9.5,556872,10.4,649625,10.6,1513865,10.2
+TGO,Togo,Africa,Total National Population,Rural,1961522,49.5,2259433,42.1,2533500,41.2,5798428,39
+TGO,Togo,Africa,Total National Population,Urban,1999719,50.5,3104265,57.9,3621313,58.8,9082111,61
+TUN,Tunisia,Africa,10m LECZ: 1 km Cell Size,Rural,151499,1.8,199043,2.1,217911,2.1,320447,2.4
+TUN,Tunisia,Africa,10m LECZ: 1 km Cell Size,Urban,942961,11.5,1096305,11.5,1228386,11.6,1346437,10
+TUN,Tunisia,Africa,10m LECZ: 90m Cell Size,Rural,152234,1.9,200006,2.1,218966,2.1,319953,2.4
+TUN,Tunisia,Africa,10m LECZ: 90m Cell Size,Urban,873960,10.6,1014311,10.6,1136514,10.7,1241701,9.2
+TUN,Tunisia,Africa,Total National Population,Rural,3631065,44.2,4192361,43.9,4589785,43.3,6631534,49.4
+TUN,Tunisia,Africa,Total National Population,Urban,4577588,55.8,5358665,56.1,6004272,56.7,6800202,50.6
+BHR,Bahrain,Asia,10m LECZ: 1 km Cell Size,Rural,98459,20,124507,18.5,244339,18.5,260816,18.6
+BHR,Bahrain,Asia,10m LECZ: 1 km Cell Size,Urban,308234,62.5,400599,59.6,789632,59.7,838919,59.8
+BHR,Bahrain,Asia,10m LECZ: 90m Cell Size,Rural,87634,17.8,111477,16.6,218768,16.5,233561,16.7
+BHR,Bahrain,Asia,10m LECZ: 90m Cell Size,Urban,284877,57.8,370804,55.2,730902,55.2,776364,55.4
+BHR,Bahrain,Asia,Total National Population,Rural,98748,20,124908,18.6,245125,18.5,261594,18.7
+BHR,Bahrain,Asia,Total National Population,Urban,394205,80,547103,81.4,1078410,81.5,1140156,81.3
+BGD,Bangladesh,Asia,10m LECZ: 1 km Cell Size,Rural,37160480,36.2,44721236,35.2,52433725,34.8,100074824,37
+BGD,Bangladesh,Asia,10m LECZ: 1 km Cell Size,Urban,9522940,9.3,12767105,10,15646319,10.4,28297316,10.5
+BGD,Bangladesh,Asia,10m LECZ: 90m Cell Size,Rural,34207376,33.3,41155788,32.4,48253390,32.1,92061840,34
+BGD,Bangladesh,Asia,10m LECZ: 90m Cell Size,Urban,8848011,8.6,11932710,9.4,14623753,9.7,26353082,9.7
+BGD,Bangladesh,Asia,Total National Population,Rural,83476792,81.3,101465904,79.8,118964406,79,214346992,79.2
+BGD,Bangladesh,Asia,Total National Population,Urban,19170014,18.7,25727282,20.2,31529252,21,56281660,20.8
+BRN,Brunei,Asia,10m LECZ: 1 km Cell Size,Rural,4568,1.8,6224,1.9,7411,1.8,16073,2.2
+BRN,Brunei,Asia,10m LECZ: 1 km Cell Size,Urban,28801,11.4,40407,12.3,50318,12.4,89403,12.5
+BRN,Brunei,Asia,10m LECZ: 90m Cell Size,Rural,3432,1.4,4718,1.4,5617,1.4,11476,1.6
+BRN,Brunei,Asia,10m LECZ: 90m Cell Size,Urban,21647,8.5,30264,9.2,37687,9.3,66793,9.3
+BRN,Brunei,Asia,Total National Population,Rural,55388,21.9,53900,16.4,64178,15.8,151079,21.1
+BRN,Brunei,Asia,Total National Population,Urban,197889,78.1,274445,83.6,341760,84.2,566391,78.9
+KHM,Cambodia,Asia,10m LECZ: 1 km Cell Size,Rural,2146261,22,2801654,22,3137793,21.9,8637616,23.4
+KHM,Cambodia,Asia,10m LECZ: 1 km Cell Size,Urban,189779,1.9,255063,2,290155,2,946372,2.6
+KHM,Cambodia,Asia,10m LECZ: 90m Cell Size,Rural,2550132,26.2,3323134,26.1,3721839,26,9895639,26.9
+KHM,Cambodia,Asia,10m LECZ: 90m Cell Size,Urban,218282,2.2,294018,2.3,334469,2.3,1072204,2.9
+KHM,Cambodia,Asia,Total National Population,Rural,8303290,85.3,10801715,84.8,12097691,84.6,31726288,86.1
+KHM,Cambodia,Asia,Total National Population,Urban,1432961,14.7,1940518,15.2,2207492,15.4,5109847,13.9
+CHN,China,Asia,10m LECZ: 1 km Cell Size,Rural,52683368,4.7,47228044,3.8,47965225,3.6,77911096,4.9
+CHN,China,Asia,10m LECZ: 1 km Cell Size,Urban,72769288,6.4,100547104,8,113866955,8.4,151382096,9.6
+CHN,China,Asia,10m LECZ: 90m Cell Size,Rural,53573680,4.7,48314176,3.9,49068311,3.6,78990688,5
+CHN,China,Asia,10m LECZ: 90m Cell Size,Urban,72308968,6.4,100743736,8,114089635,8.5,150867840,9.6
+CHN,China,Asia,Total National Population,Rural,688834624,60.9,622436032,49.6,632151622,46.9,727632896,46.1
+CHN,China,Asia,Total National Population,Urban,442589824,39.1,631726528,50.4,715413702,53.1,851300992,53.9
+CYP,Cyprus,Asia,10m LECZ: 1 km Cell Size,Rural,13933,2.1,15154,1.9,21301,1.9,19350,2.1
+CYP,Cyprus,Asia,10m LECZ: 1 km Cell Size,Urban,38271,5.6,45028,5.7,64277,5.8,52101,5.8
+CYP,Cyprus,Asia,10m LECZ: 90m Cell Size,Rural,8121,1.2,9083,1.2,12766,1.1,11491,1.3
+CYP,Cyprus,Asia,10m LECZ: 90m Cell Size,Urban,54028,8,63884,8.1,91195,8.2,72113,8
+CYP,Cyprus,Asia,Total National Population,Rural,160748,23.7,172173,21.9,242006,21.7,206999,23
+CYP,Cyprus,Asia,Total National Population,Urban,518538,76.3,612649,78.1,874558,78.3,693366,77
+PRK,Democratic People's Republic of Korea,Asia,10m LECZ: 1 km Cell Size,Rural,1157262,5.9,1307626,6,1468454,6,1616406,6.8
+PRK,Democratic People's Republic of Korea,Asia,10m LECZ: 1 km Cell Size,Urban,943111,4.8,937982,4.3,1060321,4.3,977995,4.1
+PRK,Democratic People's Republic of Korea,Asia,10m LECZ: 90m Cell Size,Rural,1373905,7,1568867,7.2,1761824,7.2,1931448,8.1
+PRK,Democratic People's Republic of Korea,Asia,10m LECZ: 90m Cell Size,Urban,1368005,7,1366562,6.3,1544800,6.3,1436712,6
+PRK,Democratic People's Republic of Korea,Asia,Total National Population,Rural,12859444,65.7,14821149,68.2,16644028,68.1,16437734,68.8
+PRK,Democratic People's Republic of Korea,Asia,Total National Population,Urban,6708534,34.3,6906462,31.8,7807257,31.9,7465161,31.2
+GEO,Georgia,Asia,10m LECZ: 1 km Cell Size,Rural,86731,1.6,75238,1.6,68978,1.6,24587,1
+GEO,Georgia,Asia,10m LECZ: 1 km Cell Size,Urban,140736,2.6,117115,2.5,107459,2.5,36299,1.5
+GEO,Georgia,Asia,10m LECZ: 90m Cell Size,Rural,86205,1.6,72305,1.5,66288,1.5,23663,1
+GEO,Georgia,Asia,10m LECZ: 90m Cell Size,Urban,161116,3,120105,2.5,110202,2.5,39454,1.6
+GEO,Georgia,Asia,Total National Population,Rural,2536474,46.5,2261748,47.9,2073541,47.9,968658,40.5
+GEO,Georgia,Asia,Total National Population,Urban,2923349,53.5,2458166,52.1,2255485,52.1,1423313,59.5
+IND,India,Asia,10m LECZ: 1 km Cell Size,Rural,30625642,3.6,35125048,3.4,42427427,3.4,56746460,3.3
+IND,India,Asia,10m LECZ: 1 km Cell Size,Urban,30935144,3.7,36455124,3.6,45418801,3.7,53193940,3.1
+IND,India,Asia,10m LECZ: 90m Cell Size,Rural,30549086,3.6,35075484,3.4,42367559,3.4,56309176,3.3
+IND,India,Asia,10m LECZ: 90m Cell Size,Urban,29121866,3.4,34317244,3.4,42755254,3.4,50019704,2.9
+IND,India,Asia,Total National Population,Rural,616400064,72.7,733864640,72,886432633,71.4,1227630592,72
+IND,India,Asia,Total National Population,Urban,231103040,27.3,284986208,28,355059327,28.6,477818976,28
+IDN,Indonesia,Asia,10m LECZ: 1 km Cell Size,Rural,15615236,8.6,18449874,8.9,20960581,8.6,25450144,8.4
+IDN,Indonesia,Asia,10m LECZ: 1 km Cell Size,Urban,19497990,10.8,21710486,10.4,26271709,10.8,32089824,10.6
+IDN,Indonesia,Asia,10m LECZ: 90m Cell Size,Rural,14342480,7.9,16998766,8.2,19312002,8,23508686,7.8
+IDN,Indonesia,Asia,10m LECZ: 90m Cell Size,Urban,17158806,9.5,19141076,9.2,23162484,9.6,27922208,9.3
+IDN,Indonesia,Asia,Total National Population,Rural,113971296,63.1,132441592,63.6,150464587,62.1,183524864,60.9
+IDN,Indonesia,Asia,Total National Population,Urban,66738844,36.9,75912384,36.4,91861051,37.9,117879728,39.1
+IRN,Iran,Asia,10m LECZ: 1 km Cell Size,Rural,484607,0.9,719571,1.1,791417,1.1,712457,0.8
+IRN,Iran,Asia,10m LECZ: 1 km Cell Size,Urban,585480,1,702051,1.1,806589,1.1,741412,0.8
+IRN,Iran,Asia,10m LECZ: 90m Cell Size,Rural,472171,0.8,695577,1,765028,1,684429,0.8
+IRN,Iran,Asia,10m LECZ: 90m Cell Size,Urban,590510,1,706811,1.1,812059,1.1,743064,0.8
+IRN,Iran,Asia,Total National Population,Rural,24843682,43.9,27669810,41.7,30432544,40.7,32856664,37.3
+IRN,Iran,Asia,Total National Population,Urban,31761138,56.1,38615944,58.3,44366055,59.3,55326788,62.7
+IRQ,Iraq,Asia,10m LECZ: 1 km Cell Size,Rural,1021604,5.5,1391537,5.5,1824371,5.6,2842398,3.3
+IRQ,Iraq,Asia,10m LECZ: 1 km Cell Size,Urban,1064614,5.8,1430589,5.7,1854291,5.7,2982406,3.5
+IRQ,Iraq,Asia,10m LECZ: 90m Cell Size,Rural,978559,5.3,1332939,5.3,1747546,5.3,2714002,3.2
+IRQ,Iraq,Asia,10m LECZ: 90m Cell Size,Urban,1034350,5.6,1389930,5.5,1801590,5.5,2892915,3.4
+IRQ,Iraq,Asia,Total National Population,Rural,8181512,44.2,11129484,44.4,14591283,44.7,41535780,48.3
+IRQ,Iraq,Asia,Total National Population,Urban,10332416,55.8,13943864,55.6,18073659,55.3,44393568,51.7
+ISR,Israel,Asia,10m LECZ: 1 km Cell Size,Rural,38471,0.9,48517,0.8,59633,0.8,83064,0.6
+ISR,Israel,Asia,10m LECZ: 1 km Cell Size,Urban,250798,5.6,305442,5,381364,5,516829,3.9
+ISR,Israel,Asia,10m LECZ: 90m Cell Size,Rural,32341,0.7,40788,0.7,50133,0.7,69680,0.5
+ISR,Israel,Asia,10m LECZ: 90m Cell Size,Urban,183469,4.1,224570,3.7,280391,3.7,379979,2.8
+ISR,Israel,Asia,Total National Population,Rural,714881,15.9,765239,12.6,940562,12.4,1632996,12.2
+ISR,Israel,Asia,Total National Population,Urban,3786889,84.1,5303391,87.4,6621632,87.6,11724349,87.8
+JPN,Japan,Asia,10m LECZ: 1 km Cell Size,Rural,1999017,1.6,1970911,1.6,1672704,1.3,1505660,1.5
+JPN,Japan,Asia,10m LECZ: 1 km Cell Size,Urban,26511224,21.5,27284974,21.5,28217543,22.3,22081284,22.3
+JPN,Japan,Asia,10m LECZ: 90m Cell Size,Rural,1525115,1.2,1532882,1.2,1300950,1,1196151,1.2
+JPN,Japan,Asia,10m LECZ: 90m Cell Size,Urban,26224358,21.2,27033584,21.3,27957561,22.1,21946250,22.1
+JPN,Japan,Asia,Total National Population,Rural,26405052,21.4,25848348,20.4,21937383,17.3,17904836,18.1
+JPN,Japan,Asia,Total National Population,Urban,97057568,78.6,101104232,79.6,104559858,82.7,81275424,81.9
+JOR,Jordan,Asia,10m LECZ: 1 km Cell Size,Rural,404,0,794,0,990,0,1095,0
+JOR,Jordan,Asia,10m LECZ: 1 km Cell Size,Urban,660,0,1297,0,1674,0,1779,0
+JOR,Jordan,Asia,10m LECZ: 90m Cell Size,Rural,227,0,447,0,557,0,552,0
+JOR,Jordan,Asia,10m LECZ: 90m Cell Size,Urban,461,0,905,0,1168,0,1019,0
+JOR,Jordan,Asia,Total National Population,Rural,1340566,41.2,1957110,39.4,2440284,38.6,4973639,38.4
+JOR,Jordan,Asia,Total National Population,Urban,1913435,58.8,3014728,60.6,3889885,61.4,7984181,61.6
+KWT,Kuwait,Asia,10m LECZ: 1 km Cell Size,Rural,309543,14.5,353691,15.9,444012,15.8,1767813,20.6
+KWT,Kuwait,Asia,10m LECZ: 1 km Cell Size,Urban,336401,15.8,352194,15.9,448482,15.9,1487438,17.4
+KWT,Kuwait,Asia,10m LECZ: 90m Cell Size,Rural,311565,14.6,356056,16.1,446982,15.9,1773844,20.7
+KWT,Kuwait,Asia,10m LECZ: 90m Cell Size,Urban,221627,10.4,233018,10.5,296724,10.5,1028823,12
+KWT,Kuwait,Asia,Total National Population,Rural,320734,15,365534,16.5,458880,16.3,1820489,21.3
+KWT,Kuwait,Asia,Total National Population,Urban,1812081,85,1852653,83.5,2359162,83.7,6743485,78.7
+LAO,Laos,Asia,10m LECZ: 1 km Cell Size,Rural,0,0,0,0,0,0,0,0
+LAO,Laos,Asia,10m LECZ: 1 km Cell Size,Urban,0,0,0,0,0,0,0,0
+LAO,Laos,Asia,10m LECZ: 90m Cell Size,Rural,0,0,0,0,0,0,0,0
+LAO,Laos,Asia,10m LECZ: 90m Cell Size,Urban,0,0,0,0,0,0,0,0
+LAO,Laos,Asia,Total National Population,Rural,3851117,87.8,4847162,86.6,5361091,85.3,11976912,90.8
+LAO,Laos,Asia,Total National Population,Urban,534480,12.2,750952,13.4,926946,14.7,1213796,9.2
+LBN,Lebanon,Asia,10m LECZ: 1 km Cell Size,Rural,120018,4.4,148701,4.4,186301,4.4,259800,4.6
+LBN,Lebanon,Asia,10m LECZ: 1 km Cell Size,Urban,257253,9.5,318455,9.5,406787,9.6,542707,9.5
+LBN,Lebanon,Asia,10m LECZ: 90m Cell Size,Rural,80076,3,99158,3,124231,2.9,182511,3.2
+LBN,Lebanon,Asia,10m LECZ: 90m Cell Size,Urban,112751,4.2,139554,4.2,178264,4.2,235648,4.1
+LBN,Lebanon,Asia,Total National Population,Rural,862352,31.9,1073456,32,1344891,31.6,2097144,36.7
+LBN,Lebanon,Asia,Total National Population,Urban,1844532,68.1,2281637,68,2914514,68.4,3610415,63.3
+MAC,Macau,Asia,10m LECZ: 1 km Cell Size,Rural,96805,26,128598,29,156177,28.1,224783,29
+MAC,Macau,Asia,10m LECZ: 1 km Cell Size,Urban,136593,36.7,159994,36.1,203355,36.6,279662,36.1
+MAC,Macau,Asia,10m LECZ: 90m Cell Size,Rural,67459,18.1,88245,19.9,107170,19.3,154248,19.9
+MAC,Macau,Asia,10m LECZ: 90m Cell Size,Urban,126058,33.9,146883,33.1,186691,33.6,256744,33.1
+MAC,Macau,Asia,Total National Population,Rural,108679,29.2,141650,31.9,172029,31,247598,31.9
+MAC,Macau,Asia,Total National Population,Urban,263471,70.8,301887,68.1,383702,69,527683,68.1
+MYS,Malaysia,Asia,10m LECZ: 1 km Cell Size,Rural,1348823,7.7,1594575,7,1922126,6.7,2879725,7
+MYS,Malaysia,Asia,10m LECZ: 1 km Cell Size,Urban,2634791,15,3375503,14.9,4452965,15.4,6370237,15.6
+MYS,Malaysia,Asia,10m LECZ: 90m Cell Size,Rural,1386408,7.9,1634317,7.2,1970031,6.8,2943666,7.2
+MYS,Malaysia,Asia,10m LECZ: 90m Cell Size,Urban,2516025,14.3,3274190,14.4,4319312,15,6086765,14.9
+MYS,Malaysia,Asia,Total National Population,Rural,8022763,45.5,9480560,41.8,11428017,39.6,18299518,44.7
+MYS,Malaysia,Asia,Total National Population,Urban,9590877,54.5,13213411,58.2,17431137,60.4,22646756,55.3
+MDV,Maldives,Asia,10m LECZ: 1 km Cell Size,Rural,205361,96.2,276778,96.3,307070,95.9,1697508,96.1
+MDV,Maldives,Asia,10m LECZ: 1 km Cell Size,Urban,8156,3.8,10525,3.7,13011,4.1,68268,3.9
+MDV,Maldives,Asia,10m LECZ: 90m Cell Size,Rural,196045,91.8,264251,92,293172,91.6,1634573,92.6
+MDV,Maldives,Asia,10m LECZ: 90m Cell Size,Urban,0,0,0,0,0,0,0,0
+MDV,Maldives,Asia,Total National Population,Rural,205361,96.2,276778,96.3,307070,95.9,1697508,96.1
+MDV,Maldives,Asia,Total National Population,Urban,8156,3.8,10525,3.7,13011,4.1,68268,3.9
+MMR,Myanmar,Asia,10m LECZ: 1 km Cell Size,Rural,6838335,16.8,7833799,16.5,7876349,16.3,14696361,22
+MMR,Myanmar,Asia,10m LECZ: 1 km Cell Size,Urban,3474040,8.6,4222631,8.9,4446461,9.2,6280223,9.4
+MMR,Myanmar,Asia,10m LECZ: 90m Cell Size,Rural,6816293,16.8,7812996,16.4,7855432,16.3,14480111,21.6
+MMR,Myanmar,Asia,10m LECZ: 90m Cell Size,Urban,3404989,8.4,4139927,8.7,4359372,9,6107267,9.1
+MMR,Myanmar,Asia,Total National Population,Rural,31930502,78.6,36863560,77.5,37063787,76.7,51762936,77.3
+MMR,Myanmar,Asia,Total National Population,Urban,8691154,21.4,10705508,22.5,11272976,23.3,15163905,22.7
+PSE,Occupied Palestinian Territory,Asia,10m LECZ: 1 km Cell Size,Rural,16326,0.8,24724,0.8,31969,0.8,46203,0.3
+PSE,Occupied Palestinian Territory,Asia,10m LECZ: 1 km Cell Size,Urban,90272,4.2,136989,4.3,180996,4.4,253445,1.4
+PSE,Occupied Palestinian Territory,Asia,10m LECZ: 90m Cell Size,Rural,11628,0.5,17598,0.6,22755,0.5,32962,0.2
+PSE,Occupied Palestinian Territory,Asia,10m LECZ: 90m Cell Size,Urban,37004,1.7,55985,1.8,73969,1.8,105056,0.6
+PSE,Occupied Palestinian Territory,Asia,Total National Population,Rural,223833,10.4,326081,10.4,421647,10.2,2161612,12.3
+PSE,Occupied Palestinian Territory,Asia,Total National Population,Urban,1930427,89.6,2823657,89.6,3730722,89.8,15467839,87.7
+OMN,Oman,Asia,10m LECZ: 1 km Cell Size,Rural,23587,1.3,31884,1.3,36709,1.3,68455,0.8
+OMN,Oman,Asia,10m LECZ: 1 km Cell Size,Urban,264536,14.4,424858,17.4,496969,17.5,1210265,14.6
+OMN,Oman,Asia,10m LECZ: 90m Cell Size,Rural,20509,1.1,30127,1.2,34686,1.2,56599,0.7
+OMN,Oman,Asia,10m LECZ: 90m Cell Size,Urban,181443,9.8,300555,12.3,351568,12.4,792306,9.6
+OMN,Oman,Asia,Total National Population,Rural,677452,36.8,535704,21.9,616771,21.7,1582621,19.2
+OMN,Oman,Asia,Total National Population,Urban,1165179,63.2,1905889,78.1,2229374,78.3,6679511,80.8
+PAK,Pakistan,Asia,10m LECZ: 1 km Cell Size,Rural,1469661,1.3,1878549,1.3,2309516,1.3,4242704,0.8
+PAK,Pakistan,Asia,10m LECZ: 1 km Cell Size,Urban,1821895,1.6,2353748,1.7,2963479,1.7,4954937,1
+PAK,Pakistan,Asia,10m LECZ: 90m Cell Size,Rural,1333409,1.2,1703378,1.2,2094158,1.2,3795857,0.7
+PAK,Pakistan,Asia,10m LECZ: 90m Cell Size,Urban,1980700,1.8,2556570,1.8,3218842,1.8,5395760,1.1
+PAK,Pakistan,Asia,Total National Population,Rural,76724976,68.7,95993920,67.3,118016333,66.8,344533216,67.7
+PAK,Pakistan,Asia,Total National Population,Urban,34966716,31.3,46645620,32.7,58729031,33.2,164219344,32.3
+PHL,Philippines,Asia,10m LECZ: 1 km Cell Size,Rural,4908018,8.1,6104893,8.1,7656446,8.1,11198400,8
+PHL,Philippines,Asia,10m LECZ: 1 km Cell Size,Urban,4953693,8.1,5809688,7.7,7324065,7.7,12227077,8.7
+PHL,Philippines,Asia,10m LECZ: 90m Cell Size,Rural,4529073,7.4,5612463,7.4,7038866,7.4,10355778,7.4
+PHL,Philippines,Asia,10m LECZ: 90m Cell Size,Urban,4824409,7.9,5655298,7.5,7129431,7.5,11946888,8.5
+PHL,Philippines,Asia,Total National Population,Rural,43214240,71,53425188,70.7,67003158,70.6,99637064,71.2
+PHL,Philippines,Asia,Total National Population,Urban,17684998,29,22090634,29.3,27848872,29.4,40279688,28.8
+QAT,Qatar,Asia,10m LECZ: 1 km Cell Size,Rural,21236,4.7,25021,4.2,65734,3.5,66143,5.5
+QAT,Qatar,Asia,10m LECZ: 1 km Cell Size,Urban,135271,29.7,160914,27.1,513129,27.4,416733,34.6
+QAT,Qatar,Asia,10m LECZ: 90m Cell Size,Rural,28316,6.2,33216,5.6,87261,4.7,87192,7.2
+QAT,Qatar,Asia,10m LECZ: 90m Cell Size,Urban,116134,25.5,138499,23.4,441653,23.6,358751,29.8
+QAT,Qatar,Asia,Total National Population,Rural,30520,6.7,35549,6,93392,5,103851,8.6
+QAT,Qatar,Asia,Total National Population,Urban,425168,93.3,557145,94,1776649,95,1099324,91.4
+KOR,Republic of Korea,Asia,10m LECZ: 1 km Cell Size,Rural,996861,2.3,898999,1.9,900891,1.9,607988,1.5
+KOR,Republic of Korea,Asia,10m LECZ: 1 km Cell Size,Urban,1777190,4.2,2035782,4.4,2131244,4.4,1610914,4
+KOR,Republic of Korea,Asia,10m LECZ: 90m Cell Size,Rural,973150,2.3,912775,2,914696,1.9,627922,1.6
+KOR,Republic of Korea,Asia,10m LECZ: 90m Cell Size,Urban,2616757,6.1,2940544,6.3,3078433,6.4,2431366,6
+KOR,Republic of Korea,Asia,Total National Population,Rural,7390955,17.3,6488498,14,6502157,13.4,4785183,11.9
+KOR,Republic of Korea,Asia,Total National Population,Urban,35221396,82.7,40012888,86,41889186,86.6,35540640,88.1
+RUS,Russia,Asia,10m LECZ: 1 km Cell Size,Rural,691323,0.5,607471,0.4,590673,0.4,279587,0.4
+RUS,Russia,Asia,10m LECZ: 1 km Cell Size,Urban,2932419,2,2452666,1.7,2392285,1.7,1484470,1.9
+RUS,Russia,Asia,10m LECZ: 90m Cell Size,Rural,853344,0.6,728671,0.5,708522,0.5,354988,0.5
+RUS,Russia,Asia,10m LECZ: 90m Cell Size,Urban,2645841,1.8,2254486,1.5,2198984,1.5,1356462,1.7
+RUS,Russia,Asia,Total National Population,Rural,51517140,34.7,47238058,32.2,45931876,32.2,19127158,24.3
+RUS,Russia,Asia,Total National Population,Urban,96859987,65.3,99349502,67.8,96903679,67.8,59567274,75.7
+SAU,Saudi Arabia,Asia,10m LECZ: 1 km Cell Size,Rural,145520,0.9,185597,0.9,238274,0.8,478551,0.8
+SAU,Saudi Arabia,Asia,10m LECZ: 1 km Cell Size,Urban,1325828,8.1,1835779,8.6,2424440,8.6,7392719,11.7
+SAU,Saudi Arabia,Asia,10m LECZ: 90m Cell Size,Rural,157035,1,201577,0.9,258789,0.9,524649,0.8
+SAU,Saudi Arabia,Asia,10m LECZ: 90m Cell Size,Urban,1260378,7.7,1745085,8.1,2304664,8.2,6938244,11
+SAU,Saudi Arabia,Asia,Total National Population,Rural,5687420,34.8,6735916,31.4,8647712,30.8,14075916,22.3
+SAU,Saudi Arabia,Asia,Total National Population,Urban,10668145,65.2,14715999,68.6,19434829,69.2,49044144,77.7
+SGP,Singapore,Asia,10m LECZ: 1 km Cell Size,Rural,466304,15.5,621057,15.5,768812,14.8,608405,15.3
+SGP,Singapore,Asia,10m LECZ: 1 km Cell Size,Urban,483239,16,643611,16,838743,16.2,631331,15.9
+SGP,Singapore,Asia,10m LECZ: 90m Cell Size,Rural,394195,13.1,525016,13.1,649923,12.5,513073,12.9
+SGP,Singapore,Asia,10m LECZ: 90m Cell Size,Urban,523342,17.3,697023,17.3,908349,17.5,684987,17.2
+SGP,Singapore,Asia,Total National Population,Rural,546504,18.1,727873,18.1,901041,17.4,713776,17.9
+SGP,Singapore,Asia,Total National Population,Urban,2469876,81.9,3289554,81.9,4286892,82.6,3265157,82.1
+LKA,Sri Lanka,Asia,10m LECZ: 1 km Cell Size,Rural,1182723,6.7,1016143,5.1,1081139,5.1,1138239,4.7
+LKA,Sri Lanka,Asia,10m LECZ: 1 km Cell Size,Urban,1340547,7.5,1460867,7.4,1538570,7.3,1671783,6.9
+LKA,Sri Lanka,Asia,10m LECZ: 90m Cell Size,Rural,1116812,6.3,974476,4.9,1036807,4.9,1109335,4.6
+LKA,Sri Lanka,Asia,10m LECZ: 90m Cell Size,Urban,1370005,7.7,1517059,7.6,1597750,7.6,1753974,7.2
+LKA,Sri Lanka,Asia,Total National Population,Rural,12474787,70.2,13802523,69.6,14685373,69.8,17006604,69.8
+LKA,Sri Lanka,Asia,Total National Population,Urban,5304690,29.8,6038819,30.4,6360021,30.2,7343114,30.2
+SYR,Syria,Asia,10m LECZ: 1 km Cell Size,Rural,37472,0.3,49223,0.3,60223,0.3,109353,0.2
+SYR,Syria,Asia,10m LECZ: 1 km Cell Size,Urban,20498,0.2,27494,0.2,34639,0.2,61185,0.1
+SYR,Syria,Asia,10m LECZ: 90m Cell Size,Rural,28564,0.2,37624,0.2,46032,0.2,83359,0.2
+SYR,Syria,Asia,10m LECZ: 90m Cell Size,Urban,16169,0.1,21688,0.1,27323,0.1,48263,0.1
+SYR,Syria,Asia,Total National Population,Rural,8218703,64.1,10708896,63.8,13101976,63.1,25607312,57.4
+SYR,Syria,Asia,Total National Population,Urban,4608804,35.9,6083314,36.2,7664061,36.9,18997972,42.6
+TWN,Taiwan,Asia,10m LECZ: 1 km Cell Size,Rural,204343,1,209992,1,0,0.9,255191,1
+TWN,Taiwan,Asia,10m LECZ: 1 km Cell Size,Urban,3473375,17.7,3732686,17.4,0,17.6,4446858,17.9
+TWN,Taiwan,Asia,10m LECZ: 90m Cell Size,Rural,209237,1.1,216135,1,0,0.9,269321,1.1
+TWN,Taiwan,Asia,10m LECZ: 90m Cell Size,Urban,3616699,18.4,3810930,17.7,0,18,4461895,18
+TWN,Taiwan,Asia,Total National Population,Rural,2173080,11.1,2556971,11.9,0,10.8,2983760,12
+TWN,Taiwan,Asia,Total National Population,Urban,17444794,88.9,18934242,88.1,0,89.2,21790206,88
+THA,Thailand,Asia,10m LECZ: 1 km Cell Size,Rural,4721171,8.6,5428484,8.8,6104381,8.8,10959032,13.1
+THA,Thailand,Asia,10m LECZ: 1 km Cell Size,Urban,8484136,15.5,10546680,17.2,12140144,17.5,17410558,20.9
+THA,Thailand,Asia,10m LECZ: 90m Cell Size,Rural,4461304,8.2,5134402,8.4,5773683,8.3,10419475,12.5
+THA,Thailand,Asia,10m LECZ: 90m Cell Size,Urban,8021011,14.7,10030233,16.3,11545669,16.6,16559352,19.9
+THA,Thailand,Asia,Total National Population,Rural,39881076,73,43667316,71.1,49104307,70.6,56514776,67.8
+THA,Thailand,Asia,Total National Population,Urban,14729062,27,17734760,28.9,20414248,29.4,26832060,32.2
+TLS,Timor-Leste,Asia,10m LECZ: 1 km Cell Size,Rural,29149,4,27992,3.9,45105,3.9,14531,3.9
+TLS,Timor-Leste,Asia,10m LECZ: 1 km Cell Size,Urban,2970,0.4,3314,0.5,5541,0.5,1706,0.5
+TLS,Timor-Leste,Asia,10m LECZ: 90m Cell Size,Rural,18273,2.5,17774,2.5,28640,2.5,9211,2.5
+TLS,Timor-Leste,Asia,10m LECZ: 90m Cell Size,Urban,2032,0.3,2275,0.3,3805,0.3,1171,0.3
+TLS,Timor-Leste,Asia,Total National Population,Rural,644188,88.2,617350,86.6,994765,86.2,319487,86.7
+TLS,Timor-Leste,Asia,Total National Population,Urban,86154,11.8,95125,13.4,159069,13.8,49092,13.3
+TUR,Turkey,Asia,10m LECZ: 1 km Cell Size,Rural,558831,1,619414,0.9,650608,0.9,784774,0.9
+TUR,Turkey,Asia,10m LECZ: 1 km Cell Size,Urban,1158085,2,1567712,2.3,1734837,2.4,2208458,2.5
+TUR,Turkey,Asia,10m LECZ: 90m Cell Size,Rural,540995,0.9,638242,0.9,670385,0.9,1109993,1.3
+TUR,Turkey,Asia,10m LECZ: 90m Cell Size,Urban,1087262,1.9,1513348,2.2,1674677,2.3,2278467,2.6
+TUR,Turkey,Asia,Total National Population,Rural,27625654,48.4,27711150,40.8,29106740,39.5,30263512,34.4
+TUR,Turkey,Asia,Total National Population,Urban,29489212,51.6,40242804,59.2,44532856,60.5,57696044,65.6
+ARE,United Arab Emirates,Asia,10m LECZ: 1 km Cell Size,Rural,25781,1.4,46320,1.4,108877,1.4,119186,1.6
+ARE,United Arab Emirates,Asia,10m LECZ: 1 km Cell Size,Urban,404443,21.8,710556,22,1752605,22.2,1855126,24.3
+ARE,United Arab Emirates,Asia,10m LECZ: 90m Cell Size,Rural,35004,1.9,62138,1.9,146057,1.9,157942,2.1
+ARE,United Arab Emirates,Asia,10m LECZ: 90m Cell Size,Urban,358518,19.3,629645,19.5,1553036,19.7,1653695,21.6
+ARE,United Arab Emirates,Asia,Total National Population,Rural,295691,15.9,533267,16.5,1253462,15.9,1088178,14.2
+ARE,United Arab Emirates,Asia,Total National Population,Urban,1559334,84.1,2691016,83.5,6637462,84.1,6551750,85.8
+VNM,Viet Nam,Asia,10m LECZ: 1 km Cell Size,Rural,27645766,41.8,32850806,41.8,36603180,41.2,52631456,41.7
+VNM,Viet Nam,Asia,10m LECZ: 1 km Cell Size,Urban,10496143,15.9,12472297,15.9,14751389,16.6,18533650,14.7
+VNM,Viet Nam,Asia,10m LECZ: 90m Cell Size,Rural,27411262,41.4,32572146,41.4,36292690,40.9,52411916,41.5
+VNM,Viet Nam,Asia,10m LECZ: 90m Cell Size,Urban,9991782,15.1,11872979,15.1,14042556,15.8,17654804,14
+VNM,Viet Nam,Asia,Total National Population,Rural,51126584,77.3,60752464,77.3,67691898,76.2,98760712,78.3
+VNM,Viet Nam,Asia,Total National Population,Urban,15013472,22.7,17840130,22.7,21100098,23.8,27441248,21.7
+YEM,Yemen,Asia,10m LECZ: 1 km Cell Size,Rural,110519,0.9,161923,0.9,221573,0.9,2584939,1.6
+YEM,Yemen,Asia,10m LECZ: 1 km Cell Size,Urban,141668,1.2,215257,1.2,310102,1.3,3896641,2.3
+YEM,Yemen,Asia,10m LECZ: 90m Cell Size,Rural,136848,1.1,200337,1.1,274137,1.1,3421728,2.1
+YEM,Yemen,Asia,10m LECZ: 90m Cell Size,Urban,142687,1.2,222426,1.2,320430,1.3,3659165,2.2
+YEM,Yemen,Asia,Total National Population,Rural,9707870,80.4,13849650,77.3,18951589,76.4,134049176,80.5
+YEM,Yemen,Asia,Total National Population,Urban,2359313,19.6,4059586,22.7,5848291,23.6,32503152,19.5
+ASM,American Samoa,Australia,10m LECZ: 1 km Cell Size,Rural,4652,10.2,5473,9.7,6189,8.9,4681,9.7
+ASM,American Samoa,Australia,10m LECZ: 1 km Cell Size,Urban,2888,6.3,3455,6.1,4334,6.2,2955,6.1
+ASM,American Samoa,Australia,10m LECZ: 90m Cell Size,Rural,1342,2.9,1516,2.7,1714,2.5,1296,2.7
+ASM,American Samoa,Australia,10m LECZ: 90m Cell Size,Urban,2466,5.4,3013,5.4,3779,5.4,2577,5.4
+ASM,American Samoa,Australia,Total National Population,Rural,7971,17.4,8859,15.7,10019,14.4,7578,15.7
+ASM,American Samoa,Australia,Total National Population,Urban,37843,82.6,47447,84.3,59524,85.6,40583,84.3
+AUS,Australia,Australia,10m LECZ: 1 km Cell Size,Rural,330979,2,389566,2,449462,2,561739,2
+AUS,Australia,Australia,10m LECZ: 1 km Cell Size,Urban,1648277,9.8,1900011,10,2271791,10,2591178,9.2
+AUS,Australia,Australia,10m LECZ: 90m Cell Size,Rural,283877,1.7,335893,1.8,387536,1.7,517321,1.8
+AUS,Australia,Australia,10m LECZ: 90m Cell Size,Urban,1649469,9.8,1903548,10,2276019,10.1,2574615,9.1
+AUS,Australia,Australia,Total National Population,Rural,3855013,22.9,4412731,23.2,5091179,22.5,9486482,33.6
+AUS,Australia,Australia,Total National Population,Urban,13008325,77.1,14648288,76.8,17514553,77.5,18719988,66.4
+COK,Cook Islands,Australia,10m LECZ: 1 km Cell Size,Rural,3577,21.4,3352,19.2,3750,18.4,3066,18.9
+COK,Cook Islands,Australia,10m LECZ: 1 km Cell Size,Urban,2533,15.1,2930,16.8,3535,17.3,2728,16.8
+COK,Cook Islands,Australia,10m LECZ: 90m Cell Size,Rural,1511,9,1532,8.8,1714,8.4,1403,8.7
+COK,Cook Islands,Australia,10m LECZ: 90m Cell Size,Urban,1180,7.1,1365,7.8,1647,8.1,1271,7.8
+COK,Cook Islands,Australia,Total National Population,Rural,8160,48.8,7550,43.2,8448,41.4,6975,43
+COK,Cook Islands,Australia,Total National Population,Urban,8573,51.2,9917,56.8,11966,58.6,9232,57
+FJI,Fiji,Australia,10m LECZ: 1 km Cell Size,Rural,58030,8.1,66093,8.2,70668,8.1,34347,8.4
+FJI,Fiji,Australia,10m LECZ: 1 km Cell Size,Urban,47470,6.6,54903,6.8,60568,7,27414,6.7
+FJI,Fiji,Australia,10m LECZ: 90m Cell Size,Rural,35787,5,41130,5.1,43976,5.1,20979,5.1
+FJI,Fiji,Australia,10m LECZ: 90m Cell Size,Urban,49854,6.9,57843,7.2,63810,7.3,28882,7.1
+FJI,Fiji,Australia,Total National Population,Rural,528388,73.5,586315,72.8,626894,72.2,298271,73.2
+FJI,Fiji,Australia,Total National Population,Urban,190212,26.5,218925,27.2,241512,27.8,109316,26.8
+PYF,French Polynesia,Australia,10m LECZ: 1 km Cell Size,Rural,26441,13.8,31086,13.4,36826,13.5,28156,13.1
+PYF,French Polynesia,Australia,10m LECZ: 1 km Cell Size,Urban,11327,5.9,14190,6.1,16683,6.1,13210,6.2
+PYF,French Polynesia,Australia,10m LECZ: 90m Cell Size,Rural,19140,10,22484,9.7,26636,9.7,20245,9.4
+PYF,French Polynesia,Australia,10m LECZ: 90m Cell Size,Urban,5317,2.8,6728,2.9,7910,2.9,6263,2.9
+PYF,French Polynesia,Australia,Total National Population,Rural,92859,48.3,110409,47.6,130797,47.8,101037,47.2
+PYF,French Polynesia,Australia,Total National Population,Urban,99284,51.7,121614,52.4,142980,52.2,113213,52.8
+GUM,Guam,Australia,10m LECZ: 1 km Cell Size,Rural,2814,2.1,3265,2.1,3820,2.1,2317,2.1
+GUM,Guam,Australia,10m LECZ: 1 km Cell Size,Urban,8918,6.7,10346,6.7,12130,6.7,7341,6.7
+GUM,Guam,Australia,10m LECZ: 90m Cell Size,Rural,1693,1.3,1963,1.3,2297,1.3,1393,1.3
+GUM,Guam,Australia,10m LECZ: 90m Cell Size,Urban,5729,4.3,6649,4.3,7796,4.3,4718,4.3
+GUM,Guam,Australia,Total National Population,Rural,4226,3.2,4904,3.2,5737,3.2,3479,3.2
+GUM,Guam,Australia,Total National Population,Urban,129647,96.8,150432,96.8,176374,96.8,106733,96.8
+KIR,Kiribati,Australia,10m LECZ: 1 km Cell Size,Rural,57423,92.2,70753,91,91926,90.9,38054,91.6
+KIR,Kiribati,Australia,10m LECZ: 1 km Cell Size,Urban,4315,6.9,6517,8.4,8525,8.4,3255,7.8
+KIR,Kiribati,Australia,10m LECZ: 90m Cell Size,Rural,37089,59.6,45561,58.6,59195,58.6,24843,59.8
+KIR,Kiribati,Australia,10m LECZ: 90m Cell Size,Urban,3462,5.6,5229,6.7,6840,6.8,2612,6.3
+KIR,Kiribati,Australia,Total National Population,Rural,57961,93.1,71247,91.6,92568,91.6,38301,92.2
+KIR,Kiribati,Australia,Total National Population,Urban,4315,6.9,6517,8.4,8525,8.4,3255,7.8
+MHL,Marshall Islands,Australia,10m LECZ: 1 km Cell Size,Rural,47255,99.9,52138,100,54816,100,37892,99.9
+MHL,Marshall Islands,Australia,10m LECZ: 1 km Cell Size,Urban,0,0,0,0,0,0,0,0
+MHL,Marshall Islands,Australia,10m LECZ: 90m Cell Size,Rural,37950,80.3,42047,80.6,44207,80.6,30370,80.1
+MHL,Marshall Islands,Australia,10m LECZ: 90m Cell Size,Urban,0,0,0,0,0,0,0,0
+MHL,Marshall Islands,Australia,Total National Population,Rural,47283,100,52138,100,54816,100,37916,100
+MHL,Marshall Islands,Australia,Total National Population,Urban,0,0,0,0,0,0,0,0
+FSM,Micronesia,Australia,10m LECZ: 1 km Cell Size,Rural,22879,23.9,25083,23.6,26262,23.5,21041,23.7
+FSM,Micronesia,Australia,10m LECZ: 1 km Cell Size,Urban,11985,12.5,13281,12.5,13935,12.5,9423,10.6
+FSM,Micronesia,Australia,10m LECZ: 90m Cell Size,Rural,11471,12,12418,11.7,13002,11.7,10096,11.4
+FSM,Micronesia,Australia,10m LECZ: 90m Cell Size,Urban,7318,7.6,8044,7.6,8440,7.6,5930,6.7
+FSM,Micronesia,Australia,Total National Population,Rural,37086,38.8,41166,38.7,43103,38.6,40819,46
+FSM,Micronesia,Australia,Total National Population,Urban,58604,61.2,65227,61.3,68439,61.4,47933,54
+NRU,Nauru,Australia,10m LECZ: 1 km Cell Size,Rural,3908,41.3,5035,41.3,4246,41.2,5011,41.3
+NRU,Nauru,Australia,10m LECZ: 1 km Cell Size,Urban,1105,11.7,1424,11.7,1206,11.7,1417,11.7
+NRU,Nauru,Australia,10m LECZ: 90m Cell Size,Rural,1009,10.7,1300,10.7,1096,10.6,1294,10.7
+NRU,Nauru,Australia,10m LECZ: 90m Cell Size,Urban,523,5.5,674,5.5,571,5.5,671,5.5
+NRU,Nauru,Australia,Total National Population,Rural,4317,45.6,5562,45.6,4690,45.5,5536,45.6
+NRU,Nauru,Australia,Total National Population,Urban,5150,54.4,6634,54.4,5618,54.5,6603,54.4
+NCL,New Caledonia,Australia,10m LECZ: 1 km Cell Size,Rural,23629,14.4,28921,14,35605,14,1042,15.2
+NCL,New Caledonia,Australia,10m LECZ: 1 km Cell Size,Urban,21435,13.1,26578,12.8,32753,12.9,833,12.1
+NCL,New Caledonia,Australia,10m LECZ: 90m Cell Size,Rural,18812,11.5,22891,11.1,28181,11.1,754,11
+NCL,New Caledonia,Australia,10m LECZ: 90m Cell Size,Urban,30300,18.5,37984,18.4,46810,18.4,1191,17.3
+NCL,New Caledonia,Australia,Total National Population,Rural,57628,35.1,70814,34.2,87181,34.2,2602,37.9
+NCL,New Caledonia,Australia,Total National Population,Urban,106586,64.9,136028,65.8,167635,65.8,4265,62.1
+NZL,New Zealand,Australia,10m LECZ: 1 km Cell Size,Rural,114131,3.4,127050,3.3,146285,3.3,225187,3.9
+NZL,New Zealand,Australia,10m LECZ: 1 km Cell Size,Urban,392588,11.5,439219,11.5,510011,11.6,565616,9.9
+NZL,New Zealand,Australia,10m LECZ: 90m Cell Size,Rural,88693,2.6,96739,2.5,111384,2.5,180124,3.1
+NZL,New Zealand,Australia,10m LECZ: 90m Cell Size,Urban,353558,10.4,388389,10.2,450989,10.2,510834,8.9
+NZL,New Zealand,Australia,Total National Population,Rural,705896,20.7,787932,20.7,907220,20.6,1681090,29.3
+NZL,New Zealand,Australia,Total National Population,Urban,2696288,79.3,3020458,79.3,3507289,79.4,4055324,70.7
+NIU,Niue,Australia,10m LECZ: 1 km Cell Size,Rural,119,6,96,6,85,6,85,6
+NIU,Niue,Australia,10m LECZ: 1 km Cell Size,Urban,0,0,0,0,0,0,0,0
+NIU,Niue,Australia,10m LECZ: 90m Cell Size,Rural,27,1.4,22,1.4,20,1.4,19,1.4
+NIU,Niue,Australia,10m LECZ: 90m Cell Size,Urban,0,0,0,0,0,0,0,0
+NIU,Niue,Australia,Total National Population,Rural,1982,100,1608,100,1426,100,1411,100
+NIU,Niue,Australia,Total National Population,Urban,0,0,0,0,0,0,0,0
+MNP,Northern Mariana Islands,Australia,10m LECZ: 1 km Cell Size,Rural,4181,9.5,6574,9.5,5655,9.2,4664,9.5
+MNP,Northern Mariana Islands,Australia,10m LECZ: 1 km Cell Size,Urban,16838,38.1,26460,38.1,23427,38.3,18774,38.1
+MNP,Northern Mariana Islands,Australia,10m LECZ: 90m Cell Size,Rural,2842,6.4,4466,6.4,3841,6.3,3168,6.4
+MNP,Northern Mariana Islands,Australia,10m LECZ: 90m Cell Size,Urban,10255,23.2,16116,23.2,14268,23.3,11434,23.2
+MNP,Northern Mariana Islands,Australia,Total National Population,Rural,8868,20.1,13940,20.1,11992,19.6,9891,20.1
+MNP,Northern Mariana Islands,Australia,Total National Population,Urban,35347,79.9,55550,79.9,49182,80.4,39413,79.9
+PLW,Palau,Australia,10m LECZ: 1 km Cell Size,Rural,5622,36.9,6901,35.8,6883,33.4,11719,35.7
+PLW,Palau,Australia,10m LECZ: 1 km Cell Size,Urban,2490,16.4,3176,16.5,3700,18,5414,16.5
+PLW,Palau,Australia,10m LECZ: 90m Cell Size,Rural,1295,8.5,1563,8.1,1559,7.6,2657,8.1
+PLW,Palau,Australia,10m LECZ: 90m Cell Size,Urban,622,4.1,808,4.2,942,4.6,1378,4.2
+PLW,Palau,Australia,Total National Population,Rural,8908,58.5,10991,57,10961,53.2,18691,57
+PLW,Palau,Australia,Total National Population,Urban,6319,41.5,8280,43,9648,46.8,14117,43
+PNG,Papua New Guinea,Australia,10m LECZ: 1 km Cell Size,Rural,79775,1.9,102379,1.9,135938,1.9,184272,1.8
+PNG,Papua New Guinea,Australia,10m LECZ: 1 km Cell Size,Urban,53408,1.3,71114,1.3,93156,1.3,123411,1.2
+PNG,Papua New Guinea,Australia,10m LECZ: 90m Cell Size,Rural,58982,1.4,74685,1.4,99166,1.4,161314,1.6
+PNG,Papua New Guinea,Australia,10m LECZ: 90m Cell Size,Urban,37811,0.9,45725,0.9,59897,0.9,92918,0.9
+PNG,Papua New Guinea,Australia,Total National Population,Rural,3574393,87,4598017,86.9,6105207,87,8317299,83.1
+PNG,Papua New Guinea,Australia,Total National Population,Urban,533895,13,693637,13.1,908622,13,1693469,16.9
+PCN,Pitcairn Islands,Australia,10m LECZ: 1 km Cell Size,Rural,19,28.6,68,100,0,100,17,28.6
+PCN,Pitcairn Islands,Australia,10m LECZ: 1 km Cell Size,Urban,0,0,0,0,0,0,0,0
+PCN,Pitcairn Islands,Australia,10m LECZ: 90m Cell Size,Rural,2,2.5,2,2.5,0,2.5,1,2.5
+PCN,Pitcairn Islands,Australia,10m LECZ: 90m Cell Size,Urban,0,0,0,0,0,0,0,0
+PCN,Pitcairn Islands,Australia,Total National Population,Rural,65,100,68,100,0,100,59,100
+PCN,Pitcairn Islands,Australia,Total National Population,Urban,0,0,0,0,0,0,0,0
+WSM,Samoa,Australia,10m LECZ: 1 km Cell Size,Rural,4720,2.9,5239,3,5536,3,4540,3
+WSM,Samoa,Australia,10m LECZ: 1 km Cell Size,Urban,36434,22.8,40444,23,41767,22.7,34592,22.7
+WSM,Samoa,Australia,10m LECZ: 90m Cell Size,Rural,1640,1,1791,1,1892,1,1548,1
+WSM,Samoa,Australia,10m LECZ: 90m Cell Size,Urban,20206,12.6,22310,12.7,23040,12.5,19082,12.5
+WSM,Samoa,Australia,Total National Population,Rural,74166,46.3,79616,45.2,84124,45.8,70018,45.9
+WSM,Samoa,Australia,Total National Population,Urban,85941,53.7,96590,54.8,99750,54.2,82616,54.1
+SLB,Solomon Islands,Australia,10m LECZ: 1 km Cell Size,Rural,23435,7.7,30821,7.6,41722,7.6,30797,7.4
+SLB,Solomon Islands,Australia,10m LECZ: 1 km Cell Size,Urban,15228,5,22012,5.4,31491,5.7,25022,6
+SLB,Solomon Islands,Australia,10m LECZ: 90m Cell Size,Rural,11805,3.9,15455,3.8,20921,3.8,15680,3.8
+SLB,Solomon Islands,Australia,10m LECZ: 90m Cell Size,Urban,9240,3,13357,3.3,19108,3.5,15291,3.7
+SLB,Solomon Islands,Australia,Total National Population,Rural,271634,88.7,354951,87.6,480492,87,359336,86.4
+SLB,Solomon Islands,Australia,Total National Population,Urban,34709,11.3,50172,12.4,71775,13,56591,13.6
+TKL,Tokelau,Australia,10m LECZ: 1 km Cell Size,Rural,1512,100,1398,100,1134,100,1264,100
+TKL,Tokelau,Australia,10m LECZ: 1 km Cell Size,Urban,0,0,0,0,0,0,0,0
+TKL,Tokelau,Australia,10m LECZ: 90m Cell Size,Rural,771,51,713,51,578,51,645,51
+TKL,Tokelau,Australia,10m LECZ: 90m Cell Size,Urban,0,0,0,0,0,0,0,0
+TKL,Tokelau,Australia,Total National Population,Rural,1512,100,1398,100,1134,100,1264,100
+TKL,Tokelau,Australia,Total National Population,Urban,0,0,0,0,0,0,0,0
+TON,Tonga,Australia,10m LECZ: 1 km Cell Size,Rural,21684,23.2,22342,22.6,23533,22.5,19634,22.6
+TON,Tonga,Australia,10m LECZ: 1 km Cell Size,Urban,20362,21.8,21883,22.1,23141,22.1,19194,22.1
+TON,Tonga,Australia,10m LECZ: 90m Cell Size,Rural,10377,11.1,10762,10.9,11336,10.8,9453,10.9
+TON,Tonga,Australia,10m LECZ: 90m Cell Size,Urban,11495,12.3,12353,12.5,13063,12.5,10835,12.5
+TON,Tonga,Australia,Total National Population,Rural,49214,52.8,51669,52.2,54424,52.1,45362,52.2
+TON,Tonga,Australia,Total National Population,Urban,44070,47.2,47361,47.8,50085,47.9,41542,47.8
+TUV,Tuvalu,Australia,10m LECZ: 1 km Cell Size,Rural,7636,98.5,8737,100,9847,100,4317,98.9
+TUV,Tuvalu,Australia,10m LECZ: 1 km Cell Size,Urban,0,0,0,0,0,0,0,0
+TUV,Tuvalu,Australia,10m LECZ: 90m Cell Size,Rural,5343,68.9,6511,74.5,7338,74.5,3252,74.5
+TUV,Tuvalu,Australia,10m LECZ: 90m Cell Size,Urban,0,0,0,0,0,0,0,0
+TUV,Tuvalu,Australia,Total National Population,Rural,7752,100,8737,100,9847,100,4364,100
+TUV,Tuvalu,Australia,Total National Population,Urban,0,0,0,0,0,0,0,0
+VUT,Vanuatu,Australia,10m LECZ: 1 km Cell Size,Rural,7143,4.9,8949,4.8,11658,4.7,7469,4.7
+VUT,Vanuatu,Australia,10m LECZ: 1 km Cell Size,Urban,203,0.1,300,0.2,403,0.2,389,0.2
+VUT,Vanuatu,Australia,10m LECZ: 90m Cell Size,Rural,2955,2,3831,2,4991,2,3276,2.1
+VUT,Vanuatu,Australia,10m LECZ: 90m Cell Size,Urban,1948,1.3,2860,1.5,3847,1.6,3015,1.9
+VUT,Vanuatu,Australia,Total National Population,Rural,116480,79.7,143771,76.8,187286,76.3,115102,72.9
+VUT,Vanuatu,Australia,Total National Population,Urban,29597,20.3,43375,23.2,58333,23.7,42712,27.1
+WLF,Wallis and Futuna,Australia,10m LECZ: 1 km Cell Size,Rural,8271,59.7,14984,100,13450,100,8040,59.7
+WLF,Wallis and Futuna,Australia,10m LECZ: 1 km Cell Size,Urban,0,0,0,0,0,0,0,0
+WLF,Wallis and Futuna,Australia,10m LECZ: 90m Cell Size,Rural,1731,12.5,1872,12.5,1680,12.5,1683,12.5
+WLF,Wallis and Futuna,Australia,10m LECZ: 90m Cell Size,Urban,0,0,0,0,0,0,0,0
+WLF,Wallis and Futuna,Australia,Total National Population,Rural,13856,100,14984,100,13450,100,13470,100
+WLF,Wallis and Futuna,Australia,Total National Population,Urban,0,0,0,0,0,0,0,0
+ALB,Albania,Europe,10m LECZ: 1 km Cell Size,Rural,188776,5.8,180954,6,184571,5.7,198241,5.8
+ALB,Albania,Europe,10m LECZ: 1 km Cell Size,Urban,109420,3.4,129499,4.3,143780,4.5,147627,4.3
+ALB,Albania,Europe,10m LECZ: 90m Cell Size,Rural,204662,6.3,197322,6.5,201266,6.3,214400,6.3
+ALB,Albania,Europe,10m LECZ: 90m Cell Size,Urban,120567,3.7,140099,4.6,155549,4.8,155113,4.6
+ALB,Albania,Europe,Total National Population,Rural,2152553,65.9,1745837,57.5,1780727,55.4,1981325,58.3
+ALB,Albania,Europe,Total National Population,Urban,1112698,34.1,1292703,42.5,1435261,44.6,1416659,41.7
+BLR,Belarus,Europe,10m LECZ: 1 km Cell Size,Rural,0,0,0,0,0,0,0,0
+BLR,Belarus,Europe,10m LECZ: 1 km Cell Size,Urban,0,0,0,0,0,0,0,0
+BLR,Belarus,Europe,10m LECZ: 90m Cell Size,Rural,0,0,0,0,0,0,0,0
+BLR,Belarus,Europe,10m LECZ: 90m Cell Size,Urban,0,0,0,0,0,0,0,0
+BLR,Belarus,Europe,Total National Population,Rural,4676662,45.6,4252562,42.4,3944521,41.3,1730358,32
+BLR,Belarus,Europe,Total National Population,Urban,5589338,54.4,5776093,57.6,5614920,58.7,3668577,68
+BEL,Belgium,Europe,10m LECZ: 1 km Cell Size,Rural,197891,2,203351,2,207855,1.9,198751,1.9
+BEL,Belgium,Europe,10m LECZ: 1 km Cell Size,Urban,2088982,21,2133165,20.7,2237093,20.8,2087089,20
+BEL,Belgium,Europe,10m LECZ: 90m Cell Size,Rural,185208,1.9,190583,1.9,194805,1.8,186066,1.8
+BEL,Belgium,Europe,10m LECZ: 90m Cell Size,Urban,1932265,19.4,1973419,19.2,2069564,19.2,1930108,18.5
+BEL,Belgium,Europe,Total National Population,Rural,1715961,17.2,1807353,17.5,1847388,17.2,1996211,19.1
+BEL,Belgium,Europe,Total National Population,Urban,8247666,82.8,8492896,82.5,8906668,82.8,8441263,80.9
+BIH,Bosnia,Europe,10m LECZ: 1 km Cell Size,Rural,295,0,251,0,242,0,87,0
+BIH,Bosnia,Europe,10m LECZ: 1 km Cell Size,Urban,466,0,383,0,383,0,117,0
+BIH,Bosnia,Europe,10m LECZ: 90m Cell Size,Rural,3059,0.1,2512,0.1,2422,0.1,769,0.1
+BIH,Bosnia,Europe,10m LECZ: 90m Cell Size,Urban,2983,0.1,2449,0.1,2452,0.1,747,0.1
+BIH,Bosnia,Europe,Total National Population,Rural,3095766,71.9,2693665,70,2597099,69.2,850463,70.5
+BIH,Bosnia,Europe,Total National Population,Urban,1212429,28.1,1153457,30,1155129,30.8,356291,29.5
+BGR,Bulgaria,Europe,10m LECZ: 1 km Cell Size,Rural,16243,0.2,14422,0.2,13188,0.2,12916,0.4
+BGR,Bulgaria,Europe,10m LECZ: 1 km Cell Size,Urban,69498,0.8,69572,0.9,65916,0.9,46577,1.3
+BGR,Bulgaria,Europe,10m LECZ: 90m Cell Size,Rural,19925,0.2,17893,0.2,16363,0.2,13189,0.4
+BGR,Bulgaria,Europe,10m LECZ: 90m Cell Size,Urban,70173,0.8,69947,0.9,66271,0.9,43875,1.2
+BGR,Bulgaria,Europe,Total National Population,Rural,4473076,51.3,3898653,48.8,3565256,47.9,1662315,46.9
+BGR,Bulgaria,Europe,Total National Population,Urban,4243262,48.7,4096120,51.2,3880879,52.1,1880792,53.1
+HRV,Croatia,Europe,10m LECZ: 1 km Cell Size,Rural,69101,1.5,72373,1.6,68220,1.6,30065,1.1
+HRV,Croatia,Europe,10m LECZ: 1 km Cell Size,Urban,73662,1.6,73053,1.6,69966,1.6,29383,1.1
+HRV,Croatia,Europe,10m LECZ: 90m Cell Size,Rural,56827,1.2,57840,1.3,54521,1.2,23825,0.9
+HRV,Croatia,Europe,10m LECZ: 90m Cell Size,Urban,64753,1.4,63675,1.4,60984,1.4,24998,0.9
+HRV,Croatia,Europe,Total National Population,Rural,2008777,43.3,2070967,44.8,1952129,44.4,997958,37.1
+HRV,Croatia,Europe,Total National Population,Urban,2625760,56.7,2551229,55.2,2443431,55.6,1695530,62.9
+DNK,Denmark,Europe,10m LECZ: 1 km Cell Size,Rural,491726,9.6,503792,9.4,516139,9.3,459675,9.1
+DNK,Denmark,Europe,10m LECZ: 1 km Cell Size,Urban,915397,17.8,951055,17.8,1002155,18,902967,17.9
+DNK,Denmark,Europe,10m LECZ: 90m Cell Size,Rural,452947,8.8,462768,8.7,474109,8.5,422504,8.4
+DNK,Denmark,Europe,10m LECZ: 90m Cell Size,Urban,929937,18.1,967139,18.1,1019103,18.3,920904,18.2
+DNK,Denmark,Europe,Total National Population,Rural,1707724,33.2,1752460,32.8,1795408,32.2,1620376,32.1
+DNK,Denmark,Europe,Total National Population,Urban,3429686,66.8,3584588,67.2,3777186,67.8,3430596,67.9
+EST,Estonia,Europe,10m LECZ: 1 km Cell Size,Rural,41944,2.6,36555,2.7,35839,2.7,12570,2.7
+EST,Estonia,Europe,10m LECZ: 1 km Cell Size,Urban,148654,9.4,128532,9.4,126087,9.4,49585,10.5
+EST,Estonia,Europe,10m LECZ: 90m Cell Size,Rural,30273,1.9,26468,1.9,25949,1.9,9249,2
+EST,Estonia,Europe,10m LECZ: 90m Cell Size,Urban,113077,7.1,98954,7.2,97071,7.2,35377,7.5
+EST,Estonia,Europe,Total National Population,Rural,467536,29.5,409935,30,401908,30,112056,23.8
+EST,Estonia,Europe,Total National Population,Urban,1116405,70.5,956834,70,938629,70,358428,76.2
+FRO,Faeroe Islands,Europe,10m LECZ: 1 km Cell Size,Rural,4019,8.5,3732,8.2,3932,8,3305,7.6
+FRO,Faeroe Islands,Europe,10m LECZ: 1 km Cell Size,Urban,2127,4.5,2216,4.9,2426,5,2206,5.1
+FRO,Faeroe Islands,Europe,10m LECZ: 90m Cell Size,Rural,2743,5.8,2601,5.7,2740,5.6,2422,5.6
+FRO,Faeroe Islands,Europe,10m LECZ: 90m Cell Size,Urban,1215,2.6,1273,2.8,1393,2.9,1229,2.8
+FRO,Faeroe Islands,Europe,Total National Population,Rural,27484,58,24895,54.6,26227,53.7,22569,51.8
+FRO,Faeroe Islands,Europe,Total National Population,Urban,19887,42,20678,45.4,22636,46.3,21009,48.2
+FIN,Finland,Europe,10m LECZ: 1 km Cell Size,Rural,52203,1,50849,1,52314,1,31770,0.8
+FIN,Finland,Europe,10m LECZ: 1 km Cell Size,Urban,226381,4.5,235065,4.5,246565,4.6,169884,4.4
+FIN,Finland,Europe,10m LECZ: 90m Cell Size,Rural,38903,0.8,37665,0.7,38749,0.7,22783,0.6
+FIN,Finland,Europe,10m LECZ: 90m Cell Size,Urban,206672,4.2,211587,4.1,221938,4.1,151049,3.9
+FIN,Finland,Europe,Total National Population,Rural,1957837,39.3,1871522,36.2,1925419,35.8,1195558,30.8
+FIN,Finland,Europe,Total National Population,Urban,3021911,60.7,3298008,63.8,3459351,64.2,2688707,69.2
+FRA,France,Europe,10m LECZ: 1 km Cell Size,Rural,667587,1.2,696319,1.2,684622,1.1,697923,1.1
+FRA,France,Europe,10m LECZ: 1 km Cell Size,Urban,1976360,3.5,2101174,3.5,2309120,3.7,2157995,3.3
+FRA,France,Europe,10m LECZ: 90m Cell Size,Rural,639790,1.1,668202,1.1,656977,1,670535,1
+FRA,France,Europe,10m LECZ: 90m Cell Size,Urban,1989164,3.5,2117442,3.6,2326998,3.7,2179254,3.3
+FRA,France,Europe,Total National Population,Rural,16590889,29.2,17331536,29.2,17040392,27,20785652,31.7
+FRA,France,Europe,Total National Population,Urban,40133116,70.8,41935300,70.8,46085502,73,44873380,68.3
+DEU,Germany,Europe,10m LECZ: 1 km Cell Size,Rural,1111440,1.4,1208072,1.5,1199039,1.5,782631,1.1
+DEU,Germany,Europe,10m LECZ: 1 km Cell Size,Urban,3294878,4.1,3385812,4.1,3386369,4.1,3007429,4.2
+DEU,Germany,Europe,10m LECZ: 90m Cell Size,Rural,1074834,1.4,1168032,1.4,1159298,1.4,750467,1
+DEU,Germany,Europe,10m LECZ: 90m Cell Size,Urban,3181855,4,3270846,4,3271385,4,2904930,4.1
+DEU,Germany,Europe,Total National Population,Rural,23165456,29.2,24511642,29.8,24328350,29.6,18491144,25.8
+DEU,Germany,Europe,Total National Population,Urban,56259956,70.8,57824632,70.2,57834162,70.4,53222696,74.2
+GIB,Gibraltar,Europe,10m LECZ: 1 km Cell Size,Rural,6977,26,7193,26,7537,25.8,4037,26
+GIB,Gibraltar,Europe,10m LECZ: 1 km Cell Size,Urban,9533,35.5,9828,35.5,10435,35.7,5516,35.5
+GIB,Gibraltar,Europe,10m LECZ: 90m Cell Size,Rural,4883,18.2,5034,18.2,5274,18,2825,18.2
+GIB,Gibraltar,Europe,10m LECZ: 90m Cell Size,Urban,5572,20.8,5745,20.8,6100,20.9,3224,20.8
+GIB,Gibraltar,Europe,Total National Population,Rural,9044,33.7,9324,33.7,9769,33.4,5233,33.7
+GIB,Gibraltar,Europe,Total National Population,Urban,17800,66.3,18351,66.3,19485,66.6,10300,66.3
+GRC,Greece,Europe,10m LECZ: 1 km Cell Size,Rural,289706,2.9,307446,2.8,316461,2.8,200982,2.6
+GRC,Greece,Europe,10m LECZ: 1 km Cell Size,Urban,652069,6.4,687621,6.3,716598,6.3,460955,6
+GRC,Greece,Europe,10m LECZ: 90m Cell Size,Rural,235054,2.3,248642,2.3,255932,2.2,165216,2.2
+GRC,Greece,Europe,10m LECZ: 90m Cell Size,Urban,604104,6,645056,5.9,672239,5.9,450880,5.9
+GRC,Greece,Europe,Total National Population,Rural,2744806,27,2765542,25.2,2846633,25,1650582,21.5
+GRC,Greece,Europe,Total National Population,Urban,7405307,73,8197925,74.8,8543398,75,6013838,78.5
+GGY,Guernsey,Europe,10m LECZ: 1 km Cell Size,Rural,10385,18.6,10397,18.6,0,18.6,9982,18.6
+GGY,Guernsey,Europe,10m LECZ: 1 km Cell Size,Urban,19434,34.9,19460,34.9,0,35,18684,34.9
+GGY,Guernsey,Europe,10m LECZ: 90m Cell Size,Rural,5388,9.7,5394,9.7,0,9.6,5179,9.7
+GGY,Guernsey,Europe,10m LECZ: 90m Cell Size,Urban,11467,20.6,11482,20.6,0,20.6,11025,20.6
+GGY,Guernsey,Europe,Total National Population,Rural,14680,26.4,14697,26.4,0,26.2,14112,26.4
+GGY,Guernsey,Europe,Total National Population,Urban,41010,73.6,41064,73.6,0,73.8,39428,73.6
+ISL,Iceland,Europe,10m LECZ: 1 km Cell Size,Rural,19866,7.8,20890,7.5,23555,7.3,58832,14.6
+ISL,Iceland,Europe,10m LECZ: 1 km Cell Size,Urban,23271,9.2,27187,9.7,31830,9.8,47507,11.8
+ISL,Iceland,Europe,10m LECZ: 90m Cell Size,Rural,16354,6.4,17441,6.2,19667,6.1,53126,13.2
+ISL,Iceland,Europe,10m LECZ: 90m Cell Size,Urban,12424,4.9,14177,5.1,16598,5.1,25539,6.3
+ISL,Iceland,Europe,Total National Population,Rural,88028,34.7,82912,29.6,93493,28.8,148555,36.8
+ISL,Iceland,Europe,Total National Population,Urban,165562,65.3,197201,70.4,230873,71.2,255381,63.2
+IRL,Ireland,Europe,10m LECZ: 1 km Cell Size,Rural,97191,2.8,101095,2.7,118769,2.6,104296,2.1
+IRL,Ireland,Europe,10m LECZ: 1 km Cell Size,Urban,277591,7.9,301491,7.9,362334,8,333281,6.7
+IRL,Ireland,Europe,10m LECZ: 90m Cell Size,Rural,86650,2.5,91741,2.4,107779,2.4,94966,1.9
+IRL,Ireland,Europe,10m LECZ: 90m Cell Size,Urban,258727,7.4,285840,7.5,343525,7.6,292220,5.9
+IRL,Ireland,Europe,Total National Population,Rural,1431587,40.7,1527083,40.2,1794049,39.6,2189444,44
+IRL,Ireland,Europe,Total National Population,Urban,2081902,59.3,2273036,59.8,2731753,60.4,2789776,56
+IMN,Isle of Man,Europe,10m LECZ: 1 km Cell Size,Rural,3016,4.3,3233,4.2,3568,4.3,4895,4.2
+IMN,Isle of Man,Europe,10m LECZ: 1 km Cell Size,Urban,8375,12,8659,11.4,9464,11.4,13111,11.4
+IMN,Isle of Man,Europe,10m LECZ: 90m Cell Size,Rural,2879,4.1,3102,4.1,3424,4.1,4697,4.1
+IMN,Isle of Man,Europe,10m LECZ: 90m Cell Size,Urban,5587,8,6011,7.9,6570,7.9,9101,7.9
+IMN,Isle of Man,Europe,Total National Population,Rural,13770,19.8,15176,19.9,16750,20.1,22977,19.9
+IMN,Isle of Man,Europe,Total National Population,Urban,55836,80.2,60914,80.1,66577,79.9,92230,80.1
+ITA,Italy,Europe,10m LECZ: 1 km Cell Size,Rural,1253420,2.2,1262579,2.2,1321201,2.2,713562,2.2
+ITA,Italy,Europe,10m LECZ: 1 km Cell Size,Urban,4037814,7.1,4082339,7.1,4310852,7.1,2292617,6.9
+ITA,Italy,Europe,10m LECZ: 90m Cell Size,Rural,1229101,2.2,1234981,2.1,1292322,2.1,708699,2.1
+ITA,Italy,Europe,10m LECZ: 90m Cell Size,Urban,3772644,6.7,3801027,6.6,4013792,6.6,2178704,6.6
+ITA,Italy,Europe,Total National Population,Rural,14268087,25.2,14542780,25.2,15218013,25,7382110,22.3
+ITA,Italy,Europe,Total National Population,Urban,42433060,74.8,43155040,74.8,45570681,75,25753284,77.7
+JEY,Jersey,Europe,10m LECZ: 1 km Cell Size,Rural,2331,2.9,1993,2.4,0,2.4,1914,2.4
+JEY,Jersey,Europe,10m LECZ: 1 km Cell Size,Urban,9833,12.1,10300,12.2,0,12.2,9890,12.2
+JEY,Jersey,Europe,10m LECZ: 90m Cell Size,Rural,4767,5.9,4906,5.8,0,5.8,4710,5.8
+JEY,Jersey,Europe,10m LECZ: 90m Cell Size,Urban,4850,6,5081,6,0,6,4879,6
+JEY,Jersey,Europe,Total National Population,Rural,9440,11.6,9006,10.7,0,10.6,8647,10.7
+JEY,Jersey,Europe,Total National Population,Urban,71838,88.4,75256,89.3,0,89.4,72257,89.3
+LVA,Latvia,Europe,10m LECZ: 1 km Cell Size,Rural,37590,1.4,33582,1.4,31824,1.4,12607,1.4
+LVA,Latvia,Europe,10m LECZ: 1 km Cell Size,Urban,890325,32.8,749128,31.6,707615,31.5,330676,35.9
+LVA,Latvia,Europe,10m LECZ: 90m Cell Size,Rural,31971,1.2,28539,1.2,27045,1.2,10975,1.2
+LVA,Latvia,Europe,10m LECZ: 90m Cell Size,Urban,779198,28.7,655230,27.6,618921,27.6,287016,31.1
+LVA,Latvia,Europe,Total National Population,Rural,711780,26.2,643997,27.1,610279,27.2,211789,23
+LVA,Latvia,Europe,Total National Population,Urban,2001012,73.8,1728656,72.9,1632863,72.8,709749,77
+LTU,Lithuania,Europe,10m LECZ: 1 km Cell Size,Rural,32007,0.9,29459,0.8,27840,0.8,15632,0.7
+LTU,Lithuania,Europe,10m LECZ: 1 km Cell Size,Urban,137447,3.7,131961,3.8,124725,3.8,101753,4.6
+LTU,Lithuania,Europe,10m LECZ: 90m Cell Size,Rural,34007,0.9,31416,0.9,29689,0.9,16522,0.7
+LTU,Lithuania,Europe,10m LECZ: 90m Cell Size,Urban,148167,4,142220,4.1,134422,4.1,109548,4.9
+LTU,Lithuania,Europe,Total National Population,Rural,1417458,38.3,1347680,38.5,1273604,38.5,672390,30.3
+LTU,Lithuania,Europe,Total National Population,Urban,2280381,61.7,2151871,61.5,2033877,61.5,1546464,69.7
+LUX,Luxembourg,Europe,10m LECZ: 1 km Cell Size,Rural,0,0,0,0,0,0,0,0
+LUX,Luxembourg,Europe,10m LECZ: 1 km Cell Size,Urban,0,0,0,0,0,0,0,0
+LUX,Luxembourg,Europe,10m LECZ: 90m Cell Size,Rural,0,0,0,0,0,0,0,0
+LUX,Luxembourg,Europe,10m LECZ: 90m Cell Size,Urban,0,0,0,0,0,0,0,0
+LUX,Luxembourg,Europe,Total National Population,Rural,78713,20.8,97497,22.4,113669,22,158788,23.2
+LUX,Luxembourg,Europe,Total National Population,Urban,298857,79.2,337675,77.6,402272,78,525088,76.8
+MKD,Macedonia,Europe,10m LECZ: 1 km Cell Size,Rural,0,0,0,0,0,0,0,0
+MKD,Macedonia,Europe,10m LECZ: 1 km Cell Size,Urban,0,0,0,0,0,0,0,0
+MKD,Macedonia,Europe,10m LECZ: 90m Cell Size,Rural,0,0,0,0,0,0,0,0
+MKD,Macedonia,Europe,10m LECZ: 90m Cell Size,Urban,0,0,0,0,0,0,0,0
+MKD,Macedonia,Europe,Total National Population,Rural,646165,33.8,536156,26.7,551234,26.7,514388,25.2
+MKD,Macedonia,Europe,Total National Population,Urban,1263183,66.2,1473361,73.3,1512659,73.3,1529732,74.8
+MLT,Malta,Europe,10m LECZ: 1 km Cell Size,Rural,14715,4.1,15810,4,15674,3.8,15095,3.9
+MLT,Malta,Europe,10m LECZ: 1 km Cell Size,Urban,37366,10.4,39560,10.1,42391,10.1,39684,10.2
+MLT,Malta,Europe,10m LECZ: 90m Cell Size,Rural,6751,1.9,7315,1.9,7253,1.7,7166,1.8
+MLT,Malta,Europe,10m LECZ: 90m Cell Size,Urban,14767,4.1,15837,4,16971,4.1,16187,4.2
+MLT,Malta,Europe,Total National Population,Rural,21920,6.1,23600,6,23398,5.6,22695,5.8
+MLT,Malta,Europe,Total National Population,Urban,338128,93.9,368113,94,394457,94.4,365692,94.2
+MDA,Moldova,Europe,10m LECZ: 1 km Cell Size,Rural,27558,0.6,27197,0.6,22314,0.6,17402,0.6
+MDA,Moldova,Europe,10m LECZ: 1 km Cell Size,Urban,66102,1.5,64320,1.5,53785,1.5,50157,1.7
+MDA,Moldova,Europe,10m LECZ: 90m Cell Size,Rural,26904,0.6,26572,0.6,21802,0.6,17004,0.6
+MDA,Moldova,Europe,10m LECZ: 90m Cell Size,Urban,79198,1.8,76879,1.8,64287,1.8,62060,2.2
+MDA,Moldova,Europe,Total National Population,Rural,1888993,43.3,1883736,44.1,1545573,43.6,991190,34.4
+MDA,Moldova,Europe,Total National Population,Urban,2474954,56.7,2390905,55.9,1999291,56.4,1888247,65.6
+MCO,Monaco,Europe,10m LECZ: 1 km Cell Size,Rural,788,2.6,873,2.6,926,2.6,1154,2.6
+MCO,Monaco,Europe,10m LECZ: 1 km Cell Size,Urban,11582,38.4,12830,38.4,13621,38.4,16955,38.4
+MCO,Monaco,Europe,10m LECZ: 90m Cell Size,Rural,1087,3.6,1205,3.6,1277,3.6,1592,3.6
+MCO,Monaco,Europe,10m LECZ: 90m Cell Size,Urban,10018,33.2,11098,33.2,11781,33.3,14666,33.2
+MCO,Monaco,Europe,Total National Population,Rural,4686,15.6,5192,15.6,5503,15.5,6861,15.6
+MCO,Monaco,Europe,Total National Population,Urban,25446,84.4,28188,84.4,29924,84.5,37250,84.4
+NLD,Netherlands,Europe,10m LECZ: 1 km Cell Size,Rural,1937239,13,2104669,13.3,2082542,12.5,2159641,12.8
+NLD,Netherlands,Europe,10m LECZ: 1 km Cell Size,Urban,9063202,60.8,9618228,60.6,10254708,61.5,10346330,61.5
+NLD,Netherlands,Europe,10m LECZ: 90m Cell Size,Rural,1886444,12.6,2049662,12.9,2028114,12.2,2103353,12.5
+NLD,Netherlands,Europe,10m LECZ: 90m Cell Size,Urban,8813248,59.1,9346956,58.9,9965485,59.8,10052448,59.8
+NLD,Netherlands,Europe,Total National Population,Rural,2937879,19.7,3182692,20.1,3149231,18.9,3274875,19.5
+NLD,Netherlands,Europe,Total National Population,Urban,11978363,80.3,12676646,79.9,13515515,81.1,13541960,80.5
+NOR,Norway,Europe,10m LECZ: 1 km Cell Size,Rural,128057,3,128290,2.9,138064,2.8,106086,2.3
+NOR,Norway,Europe,10m LECZ: 1 km Cell Size,Urban,232168,5.5,255352,5.7,284497,5.8,233502,5
+NOR,Norway,Europe,10m LECZ: 90m Cell Size,Rural,97071,2.3,98874,2.2,106406,2.2,85347,1.8
+NOR,Norway,Europe,10m LECZ: 90m Cell Size,Urban,154947,3.7,170241,3.8,189671,3.9,156861,3.3
+NOR,Norway,Europe,Total National Population,Rural,1473766,35,1447687,32.4,1557980,31.6,1554788,33.1
+NOR,Norway,Europe,Total National Population,Urban,2736794,65,3021953,67.6,3366868,68.4,3138591,66.9
+POL,Poland,Europe,10m LECZ: 1 km Cell Size,Rural,306628,0.8,317434,0.8,315644,0.8,155464,0.7
+POL,Poland,Europe,10m LECZ: 1 km Cell Size,Urban,630446,1.7,641168,1.7,633424,1.7,347845,1.5
+POL,Poland,Europe,10m LECZ: 90m Cell Size,Rural,284239,0.7,294145,0.8,292487,0.8,144455,0.6
+POL,Poland,Europe,10m LECZ: 90m Cell Size,Urban,564905,1.5,574755,1.5,567813,1.5,312691,1.3
+POL,Poland,Europe,Total National Population,Rural,17706548,46.5,18083130,46.8,17981198,46.9,10215209,43.9
+POL,Poland,Europe,Total National Population,Urban,20404188,53.5,20566150,53.2,20317751,53.1,13069188,56.1
+PRT,Portugal,Europe,10m LECZ: 1 km Cell Size,Rural,180115,1.8,190291,1.9,192665,1.8,131449,1.7
+PRT,Portugal,Europe,10m LECZ: 1 km Cell Size,Urban,370581,3.7,388297,3.8,413283,3.9,278259,3.5
+PRT,Portugal,Europe,10m LECZ: 90m Cell Size,Rural,180144,1.8,190373,1.9,192748,1.8,133264,1.7
+PRT,Portugal,Europe,10m LECZ: 90m Cell Size,Urban,401603,4,433768,4.3,461680,4.3,305359,3.9
+PRT,Portugal,Europe,Total National Population,Rural,3348824,33.6,3258117,31.9,3298762,30.9,2312072,29.5
+PRT,Portugal,Europe,Total National Population,Urban,6611682,66.4,6944074,68.1,7390901,69.1,5530704,70.5
+ROU,Romania,Europe,10m LECZ: 1 km Cell Size,Rural,176747,0.8,171722,0.8,166641,0.8,96329,0.8
+ROU,Romania,Europe,10m LECZ: 1 km Cell Size,Urban,460628,2,442701,2,428869,2,284111,2.4
+ROU,Romania,Europe,10m LECZ: 90m Cell Size,Rural,194779,0.8,189254,0.9,183655,0.9,105641,0.9
+ROU,Romania,Europe,10m LECZ: 90m Cell Size,Urban,466699,2,448138,2,434137,2,289079,2.5
+ROU,Romania,Europe,Total National Population,Rural,9728241,41.9,9388948,42.5,9111178,42.5,4336255,37.2
+ROU,Romania,Europe,Total National Population,Urban,13473043,58.1,12722818,57.5,12325317,57.5,7312657,62.8
+SMR,San Marino,Europe,10m LECZ: 1 km Cell Size,Rural,0,0,0,0,0,0,0,0
+SMR,San Marino,Europe,10m LECZ: 1 km Cell Size,Urban,0,0,0,0,0,0,0,0
+SMR,San Marino,Europe,10m LECZ: 90m Cell Size,Rural,0,0,0,0,0,0,0,0
+SMR,San Marino,Europe,10m LECZ: 90m Cell Size,Urban,0,0,0,0,0,0,0,0
+SMR,San Marino,Europe,Total National Population,Rural,158,0.7,177,0.7,203,0.6,62,0.7
+SMR,San Marino,Europe,Total National Population,Urban,23998,99.3,26770,99.3,31532,99.4,9401,99.3
+SCG,Serbia and Montenegro,Europe,10m LECZ: 1 km Cell Size,Rural,3027,0,3026,0,3003,0,3117,0
+SCG,Serbia and Montenegro,Europe,10m LECZ: 1 km Cell Size,Urban,3255,0,4072,0,4062,0,2938,0
+SCG,Serbia and Montenegro,Europe,10m LECZ: 90m Cell Size,Rural,7877,0.1,7703,0.1,7645,0.1,6368,0.1
+SCG,Serbia and Montenegro,Europe,10m LECZ: 90m Cell Size,Urban,11219,0.1,13674,0.1,13639,0.1,10574,0.2
+SCG,Serbia and Montenegro,Europe,Total National Population,Rural,6373879,62.8,6406360,60.8,6358259,60.6,3570188,53.8
+SCG,Serbia and Montenegro,Europe,Total National Population,Urban,3781473,37.2,4138426,39.2,4127971,39.4,3070200,46.2
+SVN,Slovenia,Europe,10m LECZ: 1 km Cell Size,Rural,4314,0.2,4340,0.2,4506,0.2,3177,0.3
+SVN,Slovenia,Europe,10m LECZ: 1 km Cell Size,Urban,23934,1.2,24893,1.3,25684,1.3,18309,1.5
+SVN,Slovenia,Europe,10m LECZ: 90m Cell Size,Rural,2261,0.1,2290,0.1,2378,0.1,1660,0.1
+SVN,Slovenia,Europe,10m LECZ: 90m Cell Size,Urban,15715,0.8,16162,0.8,16675,0.8,11711,1
+SVN,Slovenia,Europe,Total National Population,Rural,843874,43.8,872692,44.4,906129,44.5,464278,38.8
+SVN,Slovenia,Europe,Total National Population,Urban,1082594,56.2,1094130,55.6,1128883,55.5,732751,61.2
+ESP,Spain,Europe,10m LECZ: 1 km Cell Size,Rural,538915,1.4,564445,1.4,639180,1.4,411266,1.4
+ESP,Spain,Europe,10m LECZ: 1 km Cell Size,Urban,2484330,6.3,2581935,6.3,2957094,6.4,1975557,6.7
+ESP,Spain,Europe,10m LECZ: 90m Cell Size,Rural,454526,1.2,475154,1.2,538067,1.2,353672,1.2
+ESP,Spain,Europe,10m LECZ: 90m Cell Size,Urban,2534249,6.5,2637141,6.5,3020321,6.5,2026756,6.9
+ESP,Spain,Europe,Total National Population,Rural,11622872,29.6,11869421,29.2,13441000,28.9,7751367,26.3
+ESP,Spain,Europe,Total National Population,Urban,27659374,70.4,28825510,70.8,33013895,71.1,21753896,73.7
+SJM,Svalbard and Jan Mayen Islands,Europe,10m LECZ: 1 km Cell Size,Rural,585,16.5,522,22.1,0,22.1,409,22.6
+SJM,Svalbard and Jan Mayen Islands,Europe,10m LECZ: 1 km Cell Size,Urban,0,0,0,0,0,0,0,0
+SJM,Svalbard and Jan Mayen Islands,Europe,10m LECZ: 90m Cell Size,Rural,375,10.6,320,13.5,0,13.5,249,13.7
+SJM,Svalbard and Jan Mayen Islands,Europe,10m LECZ: 90m Cell Size,Urban,0,0,0,0,0,0,0,0
+SJM,Svalbard and Jan Mayen Islands,Europe,Total National Population,Rural,3541,100,2362,100,0,100,1811,100
+SJM,Svalbard and Jan Mayen Islands,Europe,Total National Population,Urban,0,0,0,0,0,0,0,0
+SWE,Sweden,Europe,10m LECZ: 1 km Cell Size,Rural,177607,2.1,189070,2.1,200372,2.1,172446,2.1
+SWE,Sweden,Europe,10m LECZ: 1 km Cell Size,Urban,419675,4.9,449826,5.1,484269,5.1,405009,5
+SWE,Sweden,Europe,10m LECZ: 90m Cell Size,Rural,168835,2,178410,2,189075,2,158805,2
+SWE,Sweden,Europe,10m LECZ: 90m Cell Size,Urban,428384,5,458595,5.2,493710,5.2,411010,5.1
+SWE,Sweden,Europe,Total National Population,Rural,3219075,37.8,3193430,36.2,3384327,35.8,2813732,35
+SWE,Sweden,Europe,Total National Population,Urban,5287285,62.2,5625663,63.8,6056420,64.2,5218551,65
+CHE,Switzerland,Europe,10m LECZ: 1 km Cell Size,Rural,0,0,0,0,0,0,0,0
+CHE,Switzerland,Europe,10m LECZ: 1 km Cell Size,Urban,0,0,0,0,0,0,0,0
+CHE,Switzerland,Europe,10m LECZ: 90m Cell Size,Rural,0,0,0,0,0,0,0,0
+CHE,Switzerland,Europe,10m LECZ: 90m Cell Size,Urban,0,0,0,0,0,0,0,0
+CHE,Switzerland,Europe,Total National Population,Rural,2000610,29.3,1983071,27.7,2126073,27.6,1340448,26.1
+CHE,Switzerland,Europe,Total National Population,Urban,4833068,70.7,5183873,72.3,5575617,72.4,3802233,73.9
+UKR,Ukraine,Europe,10m LECZ: 1 km Cell Size,Rural,354741,0.7,343827,0.7,314045,0.7,132755,0.6
+UKR,Ukraine,Europe,10m LECZ: 1 km Cell Size,Urban,863421,1.7,828062,1.7,767198,1.7,433517,1.8
+UKR,Ukraine,Europe,10m LECZ: 90m Cell Size,Rural,367109,0.7,354602,0.7,323887,0.7,139034,0.6
+UKR,Ukraine,Europe,10m LECZ: 90m Cell Size,Urban,939449,1.8,898989,1.8,832912,1.8,481049,2
+UKR,Ukraine,Europe,Total National Population,Rural,23867660,46,22384786,45.6,20445836,45.2,8868771,37
+UKR,Ukraine,Europe,Total National Population,Urban,27998754,54,26707396,54.4,24744344,54.8,15107922,63
+GBR,United Kingdom,Europe,10m LECZ: 1 km Cell Size,Rural,928765,1.6,1011555,1.7,1067409,1.7,1449318,1.9
+GBR,United Kingdom,Europe,10m LECZ: 1 km Cell Size,Urban,5137837,9.1,5291634,9,5641743,9,7186954,9.6
+GBR,United Kingdom,Europe,10m LECZ: 90m Cell Size,Rural,882971,1.6,965976,1.6,1019313,1.6,1388669,1.9
+GBR,United Kingdom,Europe,10m LECZ: 90m Cell Size,Urban,5126815,9,5293673,9,5643917,9,7095815,9.5
+GBR,United Kingdom,Europe,Total National Population,Rural,8130220,14.3,8683530,14.8,9163000,14.7,13425631,18
+GBR,United Kingdom,Europe,Total National Population,Urban,48594172,85.7,49949620,85.2,53254431,85.3,61270392,82
+AIA,Anguilla,North America,10m LECZ: 1 km Cell Size,Rural,1021,11.4,1272,11.4,1695,10.8,1364,11.4
+AIA,Anguilla,North America,10m LECZ: 1 km Cell Size,Urban,2329,25.9,2898,25.9,4120,26.3,3109,25.9
+AIA,Anguilla,North America,10m LECZ: 90m Cell Size,Rural,1279,14.2,1592,14.2,2122,13.6,1708,14.2
+AIA,Anguilla,North America,10m LECZ: 90m Cell Size,Urban,976,10.9,1214,10.9,1726,11,1302,10.9
+AIA,Anguilla,North America,Total National Population,Rural,2219,24.7,2763,24.7,3683,23.5,2964,24.7
+AIA,Anguilla,North America,Total National Population,Urban,6763,75.3,8416,75.3,11962,76.5,9026,75.3
+ATG,Antigua and Barbuda,North America,10m LECZ: 1 km Cell Size,Rural,3234,5.1,3906,5.1,4683,5.2,4560,5.1
+ATG,Antigua and Barbuda,North America,10m LECZ: 1 km Cell Size,Urban,13671,21.7,16507,21.7,19385,21.6,19271,21.7
+ATG,Antigua and Barbuda,North America,10m LECZ: 90m Cell Size,Rural,3333,5.3,4025,5.3,4826,5.4,4699,5.3
+ATG,Antigua and Barbuda,North America,10m LECZ: 90m Cell Size,Urban,10431,16.5,12595,16.5,14791,16.5,14704,16.5
+ATG,Antigua and Barbuda,North America,Total National Population,Rural,4703,7.5,5680,7.5,6810,7.6,6631,7.5
+ATG,Antigua and Barbuda,North America,Total National Population,Urban,58394,92.5,70508,92.5,82802,92.4,82314,92.5
+ABW,Aruba,North America,10m LECZ: 1 km Cell Size,Rural,1421,2.1,1971,2.1,2318,2.1,1832,1.8
+ABW,Aruba,North America,10m LECZ: 1 km Cell Size,Urban,16542,25,22945,25,26995,25,24350,23.6
+ABW,Aruba,North America,10m LECZ: 90m Cell Size,Rural,2601,3.9,3608,3.9,4242,3.9,4014,3.9
+ABW,Aruba,North America,10m LECZ: 90m Cell Size,Urban,10495,15.8,14557,15.8,17126,15.8,13853,13.4
+ABW,Aruba,North America,Total National Population,Rural,3243,4.9,4498,4.9,5289,4.9,5091,4.9
+ABW,Aruba,North America,Total National Population,Urban,63028,95.1,87423,95.1,102852,95.1,98041,95.1
+BHS,Bahamas,North America,10m LECZ: 1 km Cell Size,Rural,57104,22.7,58471,19.7,66788,19.2,114109,15.8
+BHS,Bahamas,North America,10m LECZ: 1 km Cell Size,Urban,162061,64.5,199653,67.2,234669,67.6,498874,69.2
+BHS,Bahamas,North America,10m LECZ: 90m Cell Size,Rural,53554,21.3,54097,18.2,61793,17.8,102161,14.2
+BHS,Bahamas,North America,10m LECZ: 90m Cell Size,Urban,158376,63.1,195277,65.7,229525,66.1,491381,68.2
+BHS,Bahamas,North America,Total National Population,Rural,62690,25,64282,21.6,73427,21.1,126558,17.6
+BHS,Bahamas,North America,Total National Population,Urban,188479,75,232902,78.4,273749,78.9,594027,82.4
+BRB,Barbados,North America,10m LECZ: 1 km Cell Size,Rural,7680,3,7946,3,7843,2.9,12036,3
+BRB,Barbados,North America,10m LECZ: 1 km Cell Size,Urban,5885,2.3,6089,2.3,6291,2.3,9223,2.3
+BRB,Barbados,North America,10m LECZ: 90m Cell Size,Rural,1835,0.7,1899,0.7,1874,0.7,2876,0.7
+BRB,Barbados,North America,10m LECZ: 90m Cell Size,Urban,6790,2.6,7026,2.6,7258,2.6,10642,2.6
+BRB,Barbados,North America,Total National Population,Rural,8573,3.3,8870,3.3,8755,3.2,13435,3.3
+BRB,Barbados,North America,Total National Population,Urban,248070,96.7,256673,96.7,265170,96.8,388772,96.7
+BLZ,Belize,North America,10m LECZ: 1 km Cell Size,Rural,22101,12,29195,12.2,39228,12.3,35325,12.2
+BLZ,Belize,North America,10m LECZ: 1 km Cell Size,Urban,54239,29.5,62901,26.4,82740,26,63579,22
+BLZ,Belize,North America,10m LECZ: 90m Cell Size,Rural,22973,12.5,31270,13.1,42017,13.2,41205,14.2
+BLZ,Belize,North America,10m LECZ: 90m Cell Size,Urban,49178,26.8,56807,23.8,74724,23.5,57322,19.8
+BLZ,Belize,North America,Total National Population,Rural,103466,56.4,139590,58.5,187563,59,177738,61.5
+BLZ,Belize,North America,Total National Population,Urban,80104,43.6,99106,41.5,130365,41,111426,38.5
+BMU,Bermuda,North America,10m LECZ: 1 km Cell Size,Rural,11072,18.5,11640,18.5,12000,18.4,28051,18.5
+BMU,Bermuda,North America,10m LECZ: 1 km Cell Size,Urban,23149,38.7,24337,38.7,25255,38.8,58648,38.7
+BMU,Bermuda,North America,10m LECZ: 90m Cell Size,Rural,9993,16.7,10505,16.7,10830,16.6,25316,16.7
+BMU,Bermuda,North America,10m LECZ: 90m Cell Size,Urban,7925,13.3,8332,13.3,8646,13.3,20077,13.3
+BMU,Bermuda,North America,Total National Population,Rural,22189,37.1,23328,37.1,24049,37,56215,37.1
+BMU,Bermuda,North America,Total National Population,Urban,37607,62.9,39536,62.9,41028,63,95276,62.9
+VGB,British Virgin Islands,North America,10m LECZ: 1 km Cell Size,Rural,4747,28.8,5903,28.8,6725,28.6,6653,28.8
+VGB,British Virgin Islands,North America,10m LECZ: 1 km Cell Size,Urban,2467,14.9,3068,15,3525,15,3458,15
+VGB,British Virgin Islands,North America,10m LECZ: 90m Cell Size,Rural,2500,15.1,3108,15.1,3541,15.1,3504,15.1
+VGB,British Virgin Islands,North America,10m LECZ: 90m Cell Size,Urban,804,4.9,1000,4.9,1148,4.9,1127,4.9
+VGB,British Virgin Islands,North America,Total National Population,Rural,8314,50.4,10337,50.4,11777,50.2,11651,50.4
+VGB,British Virgin Islands,North America,Total National Population,Urban,8191,49.6,10185,49.6,11701,49.8,11480,49.6
+CAN,Canada,North America,10m LECZ: 1 km Cell Size,Rural,182348,0.7,181514,0.6,200892,0.6,144346,0.5
+CAN,Canada,North America,10m LECZ: 1 km Cell Size,Urban,869178,3.1,994557,3.2,1115534,3.2,922393,3
+CAN,Canada,North America,10m LECZ: 90m Cell Size,Rural,174283,0.6,178672,0.6,197746,0.6,143862,0.5
+CAN,Canada,North America,10m LECZ: 90m Cell Size,Urban,836545,3,983431,3.2,1103054,3.2,889272,2.9
+CAN,Canada,North America,Total National Population,Rural,4492691,16.2,4634626,15.1,5129412,14.9,4847586,15.9
+CAN,Canada,North America,Total National Population,Urban,23205245,83.8,26051294,84.9,29220149,85.1,25675178,84.1
+CYM,Cayman Islands,North America,10m LECZ: 1 km Cell Size,Rural,2965,11.3,4351,11,5870,10.3,3383,11.4
+CYM,Cayman Islands,North America,10m LECZ: 1 km Cell Size,Urban,22064,83.9,33597,84.6,48409,85.3,24972,83.9
+CYM,Cayman Islands,North America,10m LECZ: 90m Cell Size,Rural,2308,8.8,3505,8.8,4729,8.3,2655,8.9
+CYM,Cayman Islands,North America,10m LECZ: 90m Cell Size,Urban,20527,78,31256,78.7,45036,79.4,23232,78
+CYM,Cayman Islands,North America,Total National Population,Rural,3668,13.9,5242,13.2,7073,12.5,4157,14
+CYM,Cayman Islands,North America,Total National Population,Urban,22633,86.1,34463,86.8,49656,87.5,25615,86
+CRI,Costa Rica,North America,10m LECZ: 1 km Cell Size,Rural,43158,1.4,53292,1.4,62750,1.3,133083,1.8
+CRI,Costa Rica,North America,10m LECZ: 1 km Cell Size,Urban,25473,0.8,34626,0.9,42560,0.9,93913,1.2
+CRI,Costa Rica,North America,10m LECZ: 90m Cell Size,Rural,40325,1.3,49469,1.3,58249,1.2,122336,1.6
+CRI,Costa Rica,North America,10m LECZ: 90m Cell Size,Urban,20956,0.7,28304,0.7,34790,0.7,75389,1
+CRI,Costa Rica,North America,Total National Population,Rural,1520256,49.5,1919787,48.9,2260500,47.8,4324805,57
+CRI,Costa Rica,North America,Total National Population,Urban,1553295,50.5,2006324,51.1,2466075,52.2,3267490,43
+CUB,Cuba,North America,10m LECZ: 1 km Cell Size,Rural,820928,7.8,765790,6.9,777173,6.9,687801,7.1
+CUB,Cuba,North America,10m LECZ: 1 km Cell Size,Urban,437249,4.2,514733,4.6,520224,4.6,423413,4.3
+CUB,Cuba,North America,10m LECZ: 90m Cell Size,Rural,429877,4.1,408051,3.7,414116,3.7,371889,3.8
+CUB,Cuba,North America,10m LECZ: 90m Cell Size,Urban,554537,5.3,594749,5.4,601093,5.3,507750,5.2
+CUB,Cuba,North America,Total National Population,Rural,5958611,56.6,5788314,52.1,5874357,52.2,5134652,52.6
+CUB,Cuba,North America,Total National Population,Urban,4564244,43.4,5322529,47.9,5379308,47.8,4618682,47.4
+DMA,Dominica,North America,10m LECZ: 1 km Cell Size,Rural,1913,2.7,1995,2.6,1770,2.6,2376,2.6
+DMA,Dominica,North America,10m LECZ: 1 km Cell Size,Urban,1049,1.5,1302,1.7,1154,1.7,1551,1.7
+DMA,Dominica,North America,10m LECZ: 90m Cell Size,Rural,491,0.7,520,0.7,461,0.7,619,0.7
+DMA,Dominica,North America,10m LECZ: 90m Cell Size,Urban,750,1.1,913,1.2,809,1.2,1087,1.2
+DMA,Dominica,North America,Total National Population,Rural,23817,33.7,21032,27.6,18661,27.6,25052,27.6
+DMA,Dominica,North America,Total National Population,Urban,46882,66.3,55300,72.4,49014,72.4,65871,72.4
+DOM,Dominican Republic,North America,10m LECZ: 1 km Cell Size,Rural,127881,1.8,136186,1.6,159849,1.6,293385,2
+DOM,Dominican Republic,North America,10m LECZ: 1 km Cell Size,Urban,87155,1.2,118348,1.4,148144,1.5,211905,1.5
+DOM,Dominican Republic,North America,10m LECZ: 90m Cell Size,Rural,129737,1.8,143823,1.7,168813,1.7,298782,2.1
+DOM,Dominican Republic,North America,10m LECZ: 90m Cell Size,Urban,223545,3.2,311526,3.8,389958,3.9,491738,3.4
+DOM,Dominican Republic,North America,Total National Population,Rural,3675196,51.9,3593017,43.5,4217321,41.9,6412989,44.6
+DOM,Dominican Republic,North America,Total National Population,Urban,3409318,48.1,4664495,56.5,5838860,58.1,7966086,55.4
+SLV,El Salvador,North America,10m LECZ: 1 km Cell Size,Rural,106538,2.1,121846,1.9,117823,1.9,240185,2
+SLV,El Salvador,North America,10m LECZ: 1 km Cell Size,Urban,20344,0.4,28113,0.4,28447,0.5,57498,0.5
+SLV,El Salvador,North America,10m LECZ: 90m Cell Size,Rural,119759,2.3,138484,2.2,133912,2.2,271757,2.3
+SLV,El Salvador,North America,10m LECZ: 90m Cell Size,Urban,25352,0.5,34687,0.6,35098,0.6,68729,0.6
+SLV,El Salvador,North America,Total National Population,Rural,2465993,48.3,2794616,44.5,2702352,43.4,5729872,48.3
+SLV,El Salvador,North America,Total National Population,Urban,2642525,51.7,3483790,55.5,3525139,56.6,6123859,51.7
+GRL,Greenland,North America,10m LECZ: 1 km Cell Size,Rural,19831,36.1,19340,34.8,19735,34.4,17972,36.7
+GRL,Greenland,North America,10m LECZ: 1 km Cell Size,Urban,10874,19.8,11872,21.3,12605,22,13991,28.6
+GRL,Greenland,North America,10m LECZ: 90m Cell Size,Rural,16136,29.3,15670,28.2,15990,27.9,15026,30.7
+GRL,Greenland,North America,10m LECZ: 90m Cell Size,Urban,10316,18.8,11263,20.2,11959,20.9,13274,27.1
+GRL,Greenland,North America,Total National Population,Rural,43445,79,43056,77.4,43935,76.7,34137,69.7
+GRL,Greenland,North America,Total National Population,Urban,11535,21,12584,22.6,13361,23.3,14831,30.3
+GRD,Grenada,North America,10m LECZ: 1 km Cell Size,Rural,2664,2.8,2800,2.8,2879,2.7,4078,2.8
+GRD,Grenada,North America,10m LECZ: 1 km Cell Size,Urban,2734,2.9,2802,2.8,2950,2.8,4097,2.8
+GRD,Grenada,North America,10m LECZ: 90m Cell Size,Rural,2168,2.3,2327,2.3,2392,2.3,3184,2.2
+GRD,Grenada,North America,10m LECZ: 90m Cell Size,Urban,1850,1.9,1948,1.9,2051,2,2808,1.9
+GRD,Grenada,North America,Total National Population,Rural,40469,42.4,43590,43.3,44816,42.7,63587,43.3
+GRD,Grenada,North America,Total National Population,Urban,55056,57.6,57063,56.7,60074,57.3,83346,56.7
+GLP,Guadeloupe,North America,10m LECZ: 1 km Cell Size,Rural,21270,5.5,20197,4.8,22076,4.8,23582,4.8
+GLP,Guadeloupe,North America,10m LECZ: 1 km Cell Size,Urban,61674,16,67569,16,73939,16,78276,15.9
+GLP,Guadeloupe,North America,10m LECZ: 90m Cell Size,Rural,18947,4.9,18807,4.4,20557,4.4,21944,4.5
+GLP,Guadeloupe,North America,10m LECZ: 90m Cell Size,Urban,47617,12.4,51613,12.2,56479,12.2,59784,12.1
+GLP,Guadeloupe,North America,Total National Population,Rural,45470,11.8,43128,10.2,47141,10.2,50613,10.3
+GLP,Guadeloupe,North America,Total National Population,Urban,339255,88.2,380095,89.8,415928,89.8,441680,89.7
+GTM,Guatemala,North America,10m LECZ: 1 km Cell Size,Rural,105984,1.2,121431,1.1,158813,1.1,298543,0.9
+GTM,Guatemala,North America,10m LECZ: 1 km Cell Size,Urban,16986,0.2,20508,0.2,27719,0.2,36227,0.1
+GTM,Guatemala,North America,10m LECZ: 90m Cell Size,Rural,104463,1.2,119776,1.1,156649,1.1,302042,0.9
+GTM,Guatemala,North America,10m LECZ: 90m Cell Size,Urban,15561,0.2,18791,0.2,25397,0.2,34083,0.1
+GTM,Guatemala,North America,Total National Population,Rural,6073322,68.3,7651778,68.5,10007366,67.8,25254976,73.1
+GTM,Guatemala,North America,Total National Population,Urban,2819992,31.7,3514314,31.5,4749950,32.2,9276525,26.9
+HTI,Haiti,North America,10m LECZ: 1 km Cell Size,Rural,280624,4.1,317258,4,393380,3.9,595807,3.9
+HTI,Haiti,North America,10m LECZ: 1 km Cell Size,Urban,197109,2.9,252144,3.2,356769,3.5,457448,3
+HTI,Haiti,North America,10m LECZ: 90m Cell Size,Rural,201461,3,222125,2.8,275422,2.7,428474,2.8
+HTI,Haiti,North America,10m LECZ: 90m Cell Size,Urban,172710,2.5,220058,2.8,311369,3.1,398321,2.6
+HTI,Haiti,North America,Total National Population,Rural,5318047,78,5920615,75.1,7341199,72.5,11662725,76.1
+HTI,Haiti,North America,Total National Population,Urban,1504123,22,1966575,24.9,2782588,27.5,3665520,23.9
+HND,Honduras,North America,10m LECZ: 1 km Cell Size,Rural,131967,2.7,164022,2.6,194232,2.5,336481,2
+HND,Honduras,North America,10m LECZ: 1 km Cell Size,Urban,98878,2,136844,2.1,170028,2.2,302924,1.8
+HND,Honduras,North America,10m LECZ: 90m Cell Size,Rural,108905,2.2,136060,2.1,161119,2.1,276188,1.6
+HND,Honduras,North America,10m LECZ: 90m Cell Size,Urban,62288,1.3,84646,1.3,105173,1.4,189291,1.1
+HND,Honduras,North America,Total National Population,Rural,3063907,63,3866618,60.2,4578764,59,11587092,67.3
+HND,Honduras,North America,Total National Population,Urban,1801420,37,2556085,39.8,3175923,41,5640779,32.7
+JAM,Jamaica,North America,10m LECZ: 1 km Cell Size,Rural,57647,2.4,61467,2.4,65442,2.4,80825,2.3
+JAM,Jamaica,North America,10m LECZ: 1 km Cell Size,Urban,122391,5.2,135281,5.2,144233,5.2,162529,4.6
+JAM,Jamaica,North America,10m LECZ: 90m Cell Size,Rural,53305,2.3,57822,2.2,61561,2.2,71587,2
+JAM,Jamaica,North America,10m LECZ: 90m Cell Size,Urban,136908,5.8,149411,5.8,159298,5.8,163773,4.6
+JAM,Jamaica,North America,Total National Population,Rural,983283,41.6,1079038,41.8,1148814,41.8,1631701,46.1
+JAM,Jamaica,North America,Total National Population,Urban,1383167,58.4,1503000,58.2,1602459,58.2,1904599,53.9
+MTQ,Martinique,North America,10m LECZ: 1 km Cell Size,Rural,11962,3.4,12799,3.4,13860,3.4,15246,3.4
+MTQ,Martinique,North America,10m LECZ: 1 km Cell Size,Urban,22719,6.4,24454,6.4,26115,6.4,29129,6.4
+MTQ,Martinique,North America,10m LECZ: 90m Cell Size,Rural,5829,1.6,6210,1.6,6725,1.7,7397,1.6
+MTQ,Martinique,North America,10m LECZ: 90m Cell Size,Urban,23756,6.7,25570,6.7,27307,6.7,30458,6.7
+MTQ,Martinique,North America,Total National Population,Rural,15269,4.3,14709,3.9,15928,3.9,17520,3.9
+MTQ,Martinique,North America,Total National Population,Urban,340327,95.7,366312,96.1,391193,96.1,436332,96.1
+MEX,Mexico,North America,10m LECZ: 1 km Cell Size,Rural,1667179,2,1930436,1.9,2169004,1.9,2623115,1.6
+MEX,Mexico,North America,10m LECZ: 1 km Cell Size,Urban,2838045,3.4,3448886,3.4,4009339,3.5,4709696,2.8
+MEX,Mexico,North America,10m LECZ: 90m Cell Size,Rural,1570989,1.9,1817395,1.8,2041993,1.8,2459661,1.5
+MEX,Mexico,North America,10m LECZ: 90m Cell Size,Urban,2595616,3.1,3151086,3.1,3663146,3.2,4349799,2.6
+MEX,Mexico,North America,Total National Population,Rural,34137256,40.5,38862048,38.8,43664711,38,77104368,46
+MEX,Mexico,North America,Total National Population,Urban,50129992,59.5,61185772,61.2,71128630,62,90495776,54
+MSR,Montserrat,North America,10m LECZ: 1 km Cell Size,Rural,791,7.5,288,7.5,447,7.5,340,7.5
+MSR,Montserrat,North America,10m LECZ: 1 km Cell Size,Urban,0,0,0,0,0,0,0,0
+MSR,Montserrat,North America,10m LECZ: 90m Cell Size,Rural,337,3.2,123,3.2,191,3.2,145,3.2
+MSR,Montserrat,North America,10m LECZ: 90m Cell Size,Urban,0,0,0,0,0,0,0,0
+MSR,Montserrat,North America,Total National Population,Rural,10591,100,3860,100,5990,100,4552,100
+MSR,Montserrat,North America,Total National Population,Urban,0,0,0,0,0,0,0,0
+ANT,Netherlands Antilles,North America,10m LECZ: 1 km Cell Size,Rural,9940,5.3,9896,5.7,10724,5.3,11964,5.5
+ANT,Netherlands Antilles,North America,10m LECZ: 1 km Cell Size,Urban,13391,7.1,12684,7.3,14898,7.3,15235,7
+ANT,Netherlands Antilles,North America,10m LECZ: 90m Cell Size,Rural,8659,4.6,8649,5,9373,4.6,10330,4.7
+ANT,Netherlands Antilles,North America,10m LECZ: 90m Cell Size,Urban,34364,18.2,31709,18.2,37245,18.4,39195,18
+ANT,Netherlands Antilles,North America,Total National Population,Rural,17853,9.4,18078,10.4,19591,9.7,21555,9.9
+ANT,Netherlands Antilles,North America,Total National Population,Urban,171165,90.6,156014,89.6,183256,90.3,196086,90.1
+NIC,Nicaragua,North America,10m LECZ: 1 km Cell Size,Rural,62784,1.6,72518,1.5,85217,1.5,177216,1
+NIC,Nicaragua,North America,10m LECZ: 1 km Cell Size,Urban,21643,0.5,30590,0.6,36680,0.6,58970,0.3
+NIC,Nicaragua,North America,10m LECZ: 90m Cell Size,Rural,64629,1.6,74492,1.5,87537,1.5,185183,1.1
+NIC,Nicaragua,North America,10m LECZ: 90m Cell Size,Urban,25663,0.6,36486,0.7,43749,0.7,69482,0.4
+NIC,Nicaragua,North America,Total National Population,Rural,2471938,62.4,3091849,62.4,3633283,61.9,10250191,59
+NIC,Nicaragua,North America,Total National Population,Urban,1486458,37.6,1865279,37.6,2236576,38.1,7136218,41
+PAN,Panama,North America,10m LECZ: 1 km Cell Size,Rural,88166,3.7,91215,3.1,105532,3,227881,3
+PAN,Panama,North America,10m LECZ: 1 km Cell Size,Urban,92823,3.9,133998,4.6,168631,4.7,334577,4.4
+PAN,Panama,North America,10m LECZ: 90m Cell Size,Rural,88244,3.7,92112,3.1,106570,3,231164,3
+PAN,Panama,North America,10m LECZ: 90m Cell Size,Urban,109807,4.6,159998,5.4,201350,5.6,396741,5.2
+PAN,Panama,North America,Total National Population,Rural,1228360,51.2,1226972,41.8,1419557,39.8,3046531,39.8
+PAN,Panama,North America,Total National Population,Urban,1171522,48.8,1709731,58.2,2151628,60.2,4599921,60.2
+PRI,Puerto Rico,North America,10m LECZ: 1 km Cell Size,Rural,33957,1,34773,0.9,24636,0.7,36331,0.9
+PRI,Puerto Rico,North America,10m LECZ: 1 km Cell Size,Urban,617335,17.5,630762,16.5,620474,16.6,656268,17
+PRI,Puerto Rico,North America,10m LECZ: 90m Cell Size,Rural,34005,1,35442,0.9,25110,0.7,37203,1
+PRI,Puerto Rico,North America,10m LECZ: 90m Cell Size,Urban,528147,15,539684,14.1,530882,14.2,563897,14.6
+PRI,Puerto Rico,North America,Total National Population,Rural,82953,2.4,85788,2.2,60778,1.6,86515,2.2
+PRI,Puerto Rico,North America,Total National Population,Urban,3441696,97.6,3745841,97.8,3684748,98.4,3769976,97.8
+KNA,Saint Kitts and Nevis,North America,10m LECZ: 1 km Cell Size,Rural,1954,4.8,1941,4.8,2567,4.8,2289,4.8
+KNA,Saint Kitts and Nevis,North America,10m LECZ: 1 km Cell Size,Urban,4328,10.7,4302,10.7,5647,10.6,5073,10.7
+KNA,Saint Kitts and Nevis,North America,10m LECZ: 90m Cell Size,Rural,1226,3,1215,3,1608,3,1433,3
+KNA,Saint Kitts and Nevis,North America,10m LECZ: 90m Cell Size,Urban,1547,3.8,1537,3.8,2018,3.8,1813,3.8
+KNA,Saint Kitts and Nevis,North America,Total National Population,Rural,5173,12.7,5129,12.7,6784,12.8,6048,12.7
+KNA,Saint Kitts and Nevis,North America,Total National Population,Urban,35453,87.3,35245,87.3,46267,87.2,41564,87.3
+LCA,Saint Lucia,North America,10m LECZ: 1 km Cell Size,Rural,3412,2.5,3799,2.5,4670,2.7,5025,2.3
+LCA,Saint Lucia,North America,10m LECZ: 1 km Cell Size,Urban,3018,2.2,3350,2.2,3690,2.1,4459,2.1
+LCA,Saint Lucia,North America,10m LECZ: 90m Cell Size,Rural,1630,1.2,1835,1.2,2256,1.3,2557,1.2
+LCA,Saint Lucia,North America,10m LECZ: 90m Cell Size,Urban,5861,4.3,6542,4.3,7205,4.1,9126,4.2
+LCA,Saint Lucia,North America,Total National Population,Rural,47599,34.8,54224,35.3,66666,37.9,78239,36
+LCA,Saint Lucia,North America,Total National Population,Urban,89298,65.2,99321,64.7,109378,62.1,138880,64
+SPM,Saint Pierre and Miquelon,North America,10m LECZ: 1 km Cell Size,Rural,2584,44.3,5767,100,6041,100,9628,44.7
+SPM,Saint Pierre and Miquelon,North America,10m LECZ: 1 km Cell Size,Urban,0,0,0,0,0,0,0,0
+SPM,Saint Pierre and Miquelon,North America,10m LECZ: 90m Cell Size,Rural,1427,24.5,1410,24.4,1477,24.4,5323,24.7
+SPM,Saint Pierre and Miquelon,North America,10m LECZ: 90m Cell Size,Urban,0,0,0,0,0,0,0,0
+SPM,Saint Pierre and Miquelon,North America,Total National Population,Rural,5837,100,5767,100,6041,100,21545,100
+SPM,Saint Pierre and Miquelon,North America,Total National Population,Urban,0,0,0,0,0,0,0,0
+VCT,Saint Vincent and the Grenadines,North America,10m LECZ: 1 km Cell Size,Rural,11654,10.8,12359,10.8,11707,10.7,18073,10.8
+VCT,Saint Vincent and the Grenadines,North America,10m LECZ: 1 km Cell Size,Urban,0,0,0,0,0,0,0,0
+VCT,Saint Vincent and the Grenadines,North America,10m LECZ: 90m Cell Size,Rural,5312,4.9,5633,4.9,5336,4.9,8238,4.9
+VCT,Saint Vincent and the Grenadines,North America,10m LECZ: 90m Cell Size,Urban,1491,1.4,1581,1.4,1543,1.4,2312,1.4
+VCT,Saint Vincent and the Grenadines,North America,Total National Population,Rural,74916,69.4,79420,69.4,75232,68.8,116136,69.4
+VCT,Saint Vincent and the Grenadines,North America,Total National Population,Urban,32974,30.6,34971,30.6,34133,31.2,51138,30.6
+TTO,Trinidad and Tobago,North America,10m LECZ: 1 km Cell Size,Rural,38883,3.2,40489,3.2,41034,3,40584,3.2
+TTO,Trinidad and Tobago,North America,10m LECZ: 1 km Cell Size,Urban,113351,9.4,118856,9.3,126445,9.4,119308,9.3
+TTO,Trinidad and Tobago,North America,10m LECZ: 90m Cell Size,Rural,22785,1.9,23439,1.8,23755,1.8,23456,1.8
+TTO,Trinidad and Tobago,North America,10m LECZ: 90m Cell Size,Urban,118160,9.8,124049,9.7,131968,9.8,124510,9.7
+TTO,Trinidad and Tobago,North America,Total National Population,Rural,253414,21,261062,20.4,264579,19.7,261701,20.4
+TTO,Trinidad and Tobago,North America,Total National Population,Urban,955311,79,1016851,79.6,1081771,80.3,1020296,79.6
+TCA,Turks and Caicos Islands,North America,10m LECZ: 1 km Cell Size,Rural,7321,63.6,12842,66.4,24707,63.1,19043,62.4
+TCA,Turks and Caicos Islands,North America,10m LECZ: 1 km Cell Size,Urban,3424,29.8,5167,26.7,11898,30.4,10116,33.1
+TCA,Turks and Caicos Islands,North America,10m LECZ: 90m Cell Size,Rural,7014,60.9,12310,63.6,23684,60.4,18350,60.1
+TCA,Turks and Caicos Islands,North America,10m LECZ: 90m Cell Size,Urban,2763,24,4170,21.6,9602,24.5,8164,26.7
+TCA,Turks and Caicos Islands,North America,Total National Population,Rural,8085,70.2,14182,73.3,27286,69.6,20417,66.9
+TCA,Turks and Caicos Islands,North America,Total National Population,Urban,3424,29.8,5167,26.7,11898,30.4,10116,33.1
+USA,United States of America,North America,10m LECZ: 1 km Cell Size,Rural,1150003,0.5,1368700,0.5,1472555,0.5,2524695,0.6
+USA,United States of America,North America,10m LECZ: 1 km Cell Size,Urban,18992303,7.5,20892616,7.4,23372465,7.5,39720855,9.7
+USA,United States of America,North America,10m LECZ: 90m Cell Size,Rural,1192847,0.5,1416758,0.5,1524260,0.5,2590501,0.6
+USA,United States of America,North America,10m LECZ: 90m Cell Size,Urban,18745836,7.4,20598795,7.3,23043768,7.4,37536140,9.2
+USA,United States of America,North America,Total National Population,Rural,50577695,19.9,57893674,20.5,62286573,19.9,103017461,25.3
+USA,United States of America,North America,Total National Population,Urban,203092754,80.1,224188726,79.5,250798807,80.1,304837510,74.7
+VIR,United States Virgin Islands,North America,10m LECZ: 1 km Cell Size,Rural,5892,5.7,6312,5.7,5690,5.2,7005,5.7
+VIR,United States Virgin Islands,North America,10m LECZ: 1 km Cell Size,Urban,16741,16.2,17930,16.2,17810,16.4,19690,16.1
+VIR,United States Virgin Islands,North America,10m LECZ: 90m Cell Size,Rural,5332,5.1,5711,5.2,5149,4.7,6306,5.2
+VIR,United States Virgin Islands,North America,10m LECZ: 90m Cell Size,Urban,8280,8,8868,8,8809,8.1,9727,8
+VIR,United States Virgin Islands,North America,Total National Population,Rural,13321,12.9,14269,12.9,12864,11.8,15839,13
+VIR,United States Virgin Islands,North America,Total National Population,Urban,90216,87.1,96630,87.1,95982,88.2,106192,87
+ARG,Argentina,South America,10m LECZ: 1 km Cell Size,Rural,563683,1.8,615621,1.7,659488,1.6,1366742,1.8
+ARG,Argentina,South America,10m LECZ: 1 km Cell Size,Urban,3133529,9.8,3321930,9.1,3763808,9.2,5681539,7.5
+ARG,Argentina,South America,10m LECZ: 90m Cell Size,Rural,686338,2.1,736319,2,788786,1.9,1453843,1.9
+ARG,Argentina,South America,10m LECZ: 90m Cell Size,Urban,2822469,8.8,3009862,8.3,3410229,8.4,5190206,6.8
+ARG,Argentina,South America,Total National Population,Rural,6369855,19.8,7058700,19.4,7561672,18.5,20436778,26.9
+ARG,Argentina,South America,Total National Population,Urban,25729204,80.2,29304810,80.6,33202889,81.5,55427904,73.1
+BRA,Brazil,South America,10m LECZ: 1 km Cell Size,Rural,1593816,1.1,1859204,1.1,2047733,1,4112121,1.5
+BRA,Brazil,South America,10m LECZ: 1 km Cell Size,Urban,7588734,5.1,9089040,5.2,10461045,5.3,18301194,6.5
+BRA,Brazil,South America,10m LECZ: 90m Cell Size,Rural,1667401,1.1,1966153,1.1,2165527,1.1,4528588,1.6
+BRA,Brazil,South America,10m LECZ: 90m Cell Size,Urban,8214579,5.5,9877073,5.7,11368033,5.8,19891690,7.1
+BRA,Brazil,South America,Total National Population,Rural,61263876,41,67028940,38.6,73825892,37.5,102183656,36.2
+BRA,Brazil,South America,Total National Population,Urban,88041032,59,106719624,61.4,122829122,62.5,179753472,63.8
+CHL,Chile,South America,10m LECZ: 1 km Cell Size,Rural,78595,0.6,86688,0.6,94865,0.5,167955,0.6
+CHL,Chile,South America,10m LECZ: 1 km Cell Size,Urban,132455,1,152842,1,176677,1,344948,1.2
+CHL,Chile,South America,10m LECZ: 90m Cell Size,Rural,51093,0.4,56409,0.4,61730,0.4,92017,0.3
+CHL,Chile,South America,10m LECZ: 90m Cell Size,Urban,113632,0.9,132645,0.9,153330,0.9,238005,0.8
+CHL,Chile,South America,Total National Population,Rural,7420635,56.4,8439963,54.8,9235993,53.5,17142148,58.1
+CHL,Chile,South America,Total National Population,Urban,5739400,43.6,6949772,45.2,8033532,46.5,12346046,41.9
+COL,Colombia,South America,10m LECZ: 1 km Cell Size,Rural,352260,1,403573,1,442509,0.9,688209,0.8
+COL,Colombia,South America,10m LECZ: 1 km Cell Size,Urban,853760,2.4,1027744,2.4,1161168,2.5,1799762,2.1
+COL,Colombia,South America,10m LECZ: 90m Cell Size,Rural,319773,0.9,366962,0.9,402367,0.9,634091,0.7
+COL,Colombia,South America,10m LECZ: 90m Cell Size,Urban,751652,2.2,905466,2.2,1023015,2.2,1616138,1.9
+COL,Colombia,South America,Total National Population,Rural,15763287,45.1,18587734,44.2,20381060,43.4,43507956,49.8
+COL,Colombia,South America,Total National Population,Urban,19175784,54.9,23495802,55.8,26546065,56.6,43782824,50.2
+ECU,Ecuador,South America,10m LECZ: 1 km Cell Size,Rural,390086,3.8,468536,3.8,543133,3.7,839052,3.7
+ECU,Ecuador,South America,10m LECZ: 1 km Cell Size,Urban,982529,9.6,1224904,10,1501920,10.2,1946349,8.6
+ECU,Ecuador,South America,10m LECZ: 90m Cell Size,Rural,375928,3.7,451718,3.7,523637,3.6,797611,3.5
+ECU,Ecuador,South America,10m LECZ: 90m Cell Size,Urban,939187,9.2,1173765,9.6,1439216,9.8,1868531,8.3
+ECU,Ecuador,South America,Total National Population,Rural,4780471,46.7,5495101,44.8,6369991,43.4,11468261,50.8
+ECU,Ecuador,South America,Total National Population,Urban,5454257,53.3,6765927,55.2,8296064,56.6,11100182,49.2
+FLK,Falkland Island,South America,10m LECZ: 1 km Cell Size,Rural,428,22.2,747,26.1,791,26.1,313,26.8
+FLK,Falkland Island,South America,10m LECZ: 1 km Cell Size,Urban,0,0,0,0,0,0,0,0
+FLK,Falkland Island,South America,10m LECZ: 90m Cell Size,Rural,322,16.6,494,17.3,523,17.3,206,17.6
+FLK,Falkland Island,South America,10m LECZ: 90m Cell Size,Urban,0,0,0,0,0,0,0,0
+FLK,Falkland Island,South America,Total National Population,Rural,1932,100,2857,100,3027,100,1169,100
+FLK,Falkland Island,South America,Total National Population,Urban,0,0,0,0,0,0,0,0
+GUF,French Guiana,South America,10m LECZ: 1 km Cell Size,Rural,7312,6.3,9009,5.5,13008,5.5,41385,7.3
+GUF,French Guiana,South America,10m LECZ: 1 km Cell Size,Urban,13431,11.6,18774,11.5,27433,11.6,67073,11.9
+GUF,French Guiana,South America,10m LECZ: 90m Cell Size,Rural,7569,6.6,9205,5.6,13291,5.6,39552,7
+GUF,French Guiana,South America,10m LECZ: 90m Cell Size,Urban,18734,16.2,27192,16.7,39734,16.8,83215,14.7
+GUF,French Guiana,South America,Total National Population,Rural,56560,49,74801,45.9,107997,45.6,346581,61.4
+GUF,French Guiana,South America,Total National Population,Urban,58813,51,88339,54.1,129083,54.4,218111,38.6
+GUY,Guyana,South America,10m LECZ: 1 km Cell Size,Rural,155453,21.6,162833,22.2,168036,22.2,38741,21.8
+GUY,Guyana,South America,10m LECZ: 1 km Cell Size,Urban,109492,15.2,93650,12.8,96282,12.7,23397,13.2
+GUY,Guyana,South America,10m LECZ: 90m Cell Size,Rural,160379,22.3,168244,23,173621,23,40012,22.5
+GUY,Guyana,South America,10m LECZ: 90m Cell Size,Urban,109768,15.3,93948,12.8,96588,12.8,23464,13.2
+GUY,Guyana,South America,Total National Population,Rural,596285,82.9,626315,85.4,646330,85.5,151037,85.1
+GUY,Guyana,South America,Total National Population,Urban,122754,17.1,106712,14.6,109710,14.5,26446,14.9
+PER,Peru,South America,10m LECZ: 1 km Cell Size,Rural,83789,0.4,98564,0.4,109013,0.4,142031,0.2
+PER,Peru,South America,10m LECZ: 1 km Cell Size,Urban,228273,1.1,278853,1.1,321337,1.1,564926,0.9
+PER,Peru,South America,10m LECZ: 90m Cell Size,Rural,91294,0.4,106860,0.4,118189,0.4,174088,0.3
+PER,Peru,South America,10m LECZ: 90m Cell Size,Urban,330279,1.5,393098,1.5,452988,1.5,932773,1.5
+PER,Peru,South America,Total National Population,Rural,8442768,38.8,10437984,40.3,11544599,39.3,16867146,27.2
+PER,Peru,South America,Total National Population,Urban,13293545,61.2,15494576,59.7,17855218,60.7,45137808,72.8
+SUR,Suriname,South America,10m LECZ: 1 km Cell Size,Rural,24393,6.1,24042,5.6,28692,5.4,31262,6.3
+SUR,Suriname,South America,10m LECZ: 1 km Cell Size,Urban,291735,73.4,332184,77.4,412719,78,370091,74.7
+SUR,Suriname,South America,10m LECZ: 90m Cell Size,Rural,26801,6.7,27063,6.3,32297,6.1,34282,6.9
+SUR,Suriname,South America,10m LECZ: 90m Cell Size,Urban,274704,69.1,313038,72.9,388931,73.5,348857,70.4
+SUR,Suriname,South America,Total National Population,Rural,88124,22.2,77580,18.1,92586,17.5,102406,20.7
+SUR,Suriname,South America,Total National Population,Urban,309475,77.8,351593,81.9,436833,82.5,393062,79.3
+URY,Uruguay,South America,10m LECZ: 1 km Cell Size,Rural,33837,1.1,36705,1.1,36314,1.1,98968,1.1
+URY,Uruguay,South America,10m LECZ: 1 km Cell Size,Urban,233034,7.5,247703,7.4,252643,7.5,659032,7.5
+URY,Uruguay,South America,10m LECZ: 90m Cell Size,Rural,38729,1.3,42191,1.3,41741,1.2,126120,1.4
+URY,Uruguay,South America,10m LECZ: 90m Cell Size,Urban,267049,8.6,283066,8.5,288711,8.5,768769,8.7
+URY,Uruguay,South America,Total National Population,Rural,439755,14.2,494656,14.9,489378,14.5,1689526,19.2
+URY,Uruguay,South America,Total National Population,Urban,2654063,85.8,2834107,85.1,2890630,85.5,7097289,80.8
+VEN,Venezuela,South America,10m LECZ: 1 km Cell Size,Rural,328105,1.7,408646,1.7,465117,1.6,1156337,2
+VEN,Venezuela,South America,10m LECZ: 1 km Cell Size,Urban,717844,3.6,940382,3.9,1171524,4,1824331,3.1
+VEN,Venezuela,South America,10m LECZ: 90m Cell Size,Rural,282203,1.4,351956,1.4,400593,1.4,1022771,1.7
+VEN,Venezuela,South America,10m LECZ: 90m Cell Size,Urban,623645,3.2,827218,3.4,1030546,3.5,1612718,2.8
+VEN,Venezuela,South America,Total National Population,Rural,6920977,35.1,8646265,35.5,9841091,33.4,25189292,43
+VEN,Venezuela,South America,Total National Population,Urban,12779946,64.9,15729532,64.5,19595800,66.6,33380284,57
