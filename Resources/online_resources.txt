@@ -1,0 +1,4 @@
+http://pandas.pydata.org/pandas-docs/stable/10min.html
+
+box plots: 
+http://www.softschools.com/math/topics/box_plots/

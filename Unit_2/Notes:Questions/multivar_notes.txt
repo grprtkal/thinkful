@@ -1,0 +1,11 @@
+1. add a new column - join on id (key)
+
+id = loansdata.id 
+id.join(home_ownership_dummies)
+
+
+logistic regression
+random forest
+
+
+noaa weather data 
