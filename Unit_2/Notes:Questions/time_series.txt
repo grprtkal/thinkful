@@ -1,0 +1,21 @@
+Time Series: Y = m + s + e 
+Y = series; m = trend; s = seasonal component; e = random noise 
+
+Trend is longer term change (moving average over a certain time span); seasonal component is short term fluctuations 
+
+Exponential smoothing: forecast predictions based on weighted average of most recent observations 
+(most recent observations are given most weight)
+
+Horizontal pattern - when data fluctuates randomly around a mean
+Trend pattern - when you have small fluctuations but general trend (i.e. increasing or decline)
+Seasonal pattern - repeating pattern over successive period (i.e. tides, football sales tickets)
+Cyclical pattern - high runs and low runs (i.e. employment, gas) 
+
+Time trend - a steady relationship between response (y) and time (t)
+Seasonality - short term perioud relationship between response (y) and time (t)
+Cycles - long-term periodic relationship between response (y) and time (t)
+Irregular - unobservable time-dependent influences 
+
+Auto-Regressive Integrated Moving Average (ARIMA) - series is function of most recent observations
+ 
+

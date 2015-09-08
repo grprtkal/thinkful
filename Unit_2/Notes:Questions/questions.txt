@@ -19,3 +19,8 @@ plt.show()
 
 6. Explain boxplot and qq plot
 
+
+Time Series: 
+1. What is low_memory=False? 
+2. Time series lesson - How to use month name on graph (instead of 0, 1, 2, 3, 4, 5 -- last step in notebook)
+	- explain convert string to datetime object
